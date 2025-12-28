@@ -1,0 +1,801 @@
+batch_id,plant,country,product,production_date,units_produced,units_rejected,production_time_hrs,delay_days,production_cost,quality_issue
+BCH000000,Plant_F,France,Paracetamol 500mg,2023-11-27,79087,19548,9.3,0,486716.37,Contamination
+BCH000001,Plant_F,France,Ibuprofen 400mg,2023-12-20,136725,21811,12.7,7,1021781.9,Equipment failure
+BCH000002,Plant_E,Brazil,Insulin Glargine,2023-07-23,152301,9207,21.5,0,180452.7,
+BCH000003,Plant_C,Germany,Losartan 50mg,2023-08-24,118641,19986,19.3,3,740244.37,Process deviation
+BCH000004,Plant_D,India,Amoxicillin 500mg,2023-11-23,213723,10655,29.2,0,303828.36,
+BCH000005,Plant_C,Germany,Atorvastatin 20mg,2023-11-23,182163,15783,18.9,0,1109003.71,Temperature deviation
+BCH000006,Plant_E,Brazil,Insulin Lispro,2023-10-22,37924,6362,29.3,1,43481.67,Temperature deviation
+BCH000007,Plant_F,France,Insulin Glargine,2023-09-20,48303,7691,15.2,0,286832.55,Temperature deviation
+BCH000008,Plant_D,India,Metformin 850mg,2023-10-17,240729,5564,11.1,0,307018.69,
+BCH000009,Plant_E,Brazil,Metformin 850mg,2023-09-20,124155,11926,10.5,0,150109.31,Contamination
+BCH000010,Plant_A,Mexico,Insulin Lispro,2023-08-18,224082,18061,24.1,0,268240.94,Equipment failure
+BCH000011,Plant_F,France,Atorvastatin 20mg,2023-10-10,39834,10358,20.3,2,292123.87,Equipment failure
+BCH000012,Plant_E,Brazil,Omeprazole 20mg,2023-10-30,45020,2509,8.7,0,50370.22,
+BCH000013,Plant_E,Brazil,Omeprazole 20mg,2023-09-22,64093,1083,24.6,0,78689.4,
+BCH000014,Plant_F,France,Insulin Glargine,2023-08-15,81795,9398,25.7,1,617498.93,Equipment failure
+BCH000015,Plant_F,France,Aspirin 100mg,2023-08-22,184142,61955,17.4,0,1159076.95,Temperature deviation
+BCH000016,Plant_C,Germany,Insulin Glargine,2023-07-25,225620,44707,10.6,0,1417595.33,Process deviation
+BCH000017,Plant_E,Brazil,Atorvastatin 20mg,2023-07-03,100056,10929,29.4,2,121158.48,Equipment failure
+BCH000018,Plant_E,Brazil,Insulin Glargine,2023-10-30,212955,2307,9.1,1,268528.68,
+BCH000019,Plant_E,Brazil,Paracetamol 500mg,2023-09-03,244478,27633,13.3,0,350785.39,Contamination
+BCH000020,Plant_B,USA,Insulin Glargine,2023-08-23,52059,7028,21.9,0,68073.92,Temperature deviation
+BCH000021,Plant_E,Brazil,Ibuprofen 400mg,2023-09-30,226584,8382,21.0,0,248036.76,
+BCH000022,Plant_F,France,Omeprazole 20mg,2023-10-13,177617,7766,28.6,2,1173006.46,
+BCH000023,Plant_D,India,Paracetamol 500mg,2023-12-09,227641,16058,22.5,4,266990.79,Contamination
+BCH000024,Plant_E,Brazil,Insulin Glargine,2023-07-02,118766,8380,27.8,0,166628.42,Process deviation
+BCH000025,Plant_E,Brazil,Ibuprofen 400mg,2023-12-08,195650,3127,25.2,5,273783.05,
+BCH000026,Plant_E,Brazil,Ibuprofen 400mg,2023-11-08,214625,9258,10.2,1,232505.61,
+BCH000027,Plant_B,USA,Aspirin 100mg,2023-12-02,221357,25293,13.2,0,295818.07,Temperature deviation
+BCH000028,Plant_C,Germany,Ibuprofen 400mg,2023-11-16,58352,23014,10.1,2,406024.99,Process deviation
+BCH000029,Plant_F,France,Insulin Glargine,2023-11-18,220713,16089,21.9,0,1675099.28,Process deviation
+BCH000030,Plant_B,USA,Aspirin 100mg,2023-09-20,248456,14662,14.2,0,332951.6,
+BCH000031,Plant_A,Mexico,Atorvastatin 20mg,2023-12-12,212649,17611,16.1,6,299697.12,Contamination
+BCH000032,Plant_F,France,Atorvastatin 20mg,2023-08-10,239883,57523,26.7,0,1583453.43,Process deviation
+BCH000033,Plant_E,Brazil,Metformin 850mg,2023-07-31,234805,9465,10.1,2,301776.56,
+BCH000034,Plant_F,France,Losartan 50mg,2023-07-06,127071,33253,15.9,2,917432.79,Temperature deviation
+BCH000035,Plant_E,Brazil,Amoxicillin 500mg,2023-07-28,199518,30853,19.0,5,252207.36,Temperature deviation
+BCH000036,Plant_D,India,Omeprazole 20mg,2023-12-02,72198,6571,16.3,5,86758.77,Temperature deviation
+BCH000037,Plant_D,India,Paracetamol 500mg,2023-11-11,86941,9124,21.0,1,102864.67,Equipment failure
+BCH000038,Plant_E,Brazil,Amoxicillin 500mg,2023-08-21,37868,1641,21.7,3,43839.62,
+BCH000039,Plant_B,USA,Insulin Lispro,2023-12-05,243578,47569,15.1,7,308337.63,Equipment failure
+BCH000040,Plant_E,Brazil,Aspirin 100mg,2023-08-07,226220,8720,26.4,0,322714.92,
+BCH000041,Plant_A,Mexico,Losartan 50mg,2023-07-21,57336,1700,23.7,0,73259.45,
+BCH000042,Plant_F,France,Paracetamol 500mg,2023-07-31,163697,7601,17.2,1,1152894.31,
+BCH000043,Plant_D,India,Paracetamol 500mg,2023-10-14,54913,3171,8.9,0,60215.45,
+BCH000044,Plant_B,USA,Insulin Lispro,2023-08-11,243369,21927,11.8,0,304320.73,Temperature deviation
+BCH000045,Plant_F,France,Ibuprofen 400mg,2023-07-31,144647,5737,21.8,0,951848.8,
+BCH000046,Plant_F,France,Omeprazole 20mg,2023-07-10,71492,23062,8.6,0,507787.49,Process deviation
+BCH000047,Plant_F,France,Aspirin 100mg,2023-08-31,163237,40531,20.0,1,1100803.91,Temperature deviation
+BCH000048,Plant_E,Brazil,Insulin Lispro,2023-09-20,63167,3911,10.2,0,69797.64,
+BCH000049,Plant_F,France,Losartan 50mg,2023-08-02,45520,5412,14.2,0,338587.48,Temperature deviation
+BCH000050,Plant_D,India,Losartan 50mg,2023-12-17,198239,22748,14.2,2,271439.37,Process deviation
+BCH000051,Plant_A,Mexico,Atorvastatin 20mg,2023-12-20,215613,27955,25.1,0,261738.34,Contamination
+BCH000052,Plant_D,India,Insulin Lispro,2023-07-23,111332,12972,10.3,3,150480.28,Equipment failure
+BCH000053,Plant_D,India,Aspirin 100mg,2023-09-07,196350,12817,8.2,5,239569.11,
+BCH000054,Plant_F,France,Ibuprofen 400mg,2023-09-12,39840,8958,14.5,1,267902.84,Process deviation
+BCH000055,Plant_E,Brazil,Omeprazole 20mg,2023-09-01,151078,30545,18.9,3,168124.76,Equipment failure
+BCH000056,Plant_B,USA,Atorvastatin 20mg,2023-10-30,107045,10176,11.1,0,120119.92,Contamination
+BCH000057,Plant_E,Brazil,Paracetamol 500mg,2023-07-14,92676,8305,26.1,2,102517.7,Temperature deviation
+BCH000058,Plant_D,India,Paracetamol 500mg,2023-11-23,153219,7922,25.9,0,185920.71,
+BCH000059,Plant_B,USA,Aspirin 100mg,2023-09-23,141679,4921,27.9,1,174650.53,
+BCH000060,Plant_C,Germany,Atorvastatin 20mg,2023-08-06,208070,49850,10.6,0,1265418.27,Process deviation
+BCH000061,Plant_E,Brazil,Amoxicillin 500mg,2023-07-01,62177,8929,27.1,0,73546.46,Equipment failure
+BCH000062,Plant_F,France,Aspirin 100mg,2023-07-27,142941,29151,21.8,7,982010.5,Process deviation
+BCH000063,Plant_F,France,Amoxicillin 500mg,2023-07-17,75231,5775,14.2,5,446768.35,Equipment failure
+BCH000064,Plant_E,Brazil,Paracetamol 500mg,2023-10-15,177562,50034,20.8,0,214354.05,Process deviation
+BCH000065,Plant_D,India,Losartan 50mg,2023-08-21,47890,480,26.1,0,67425.95,
+BCH000066,Plant_C,Germany,Aspirin 100mg,2023-09-27,33719,1116,16.3,0,198989.83,
+BCH000067,Plant_D,India,Atorvastatin 20mg,2023-07-25,31615,3804,18.3,4,43685.55,Equipment failure
+BCH000068,Plant_B,USA,Paracetamol 500mg,2023-11-22,90405,1756,29.9,3,130174.01,
+BCH000069,Plant_C,Germany,Losartan 50mg,2023-09-22,99639,34271,10.8,0,670427.1,Contamination
+BCH000070,Plant_C,Germany,Insulin Lispro,2023-11-25,235894,39148,10.5,1,1544732.35,Process deviation
+BCH000071,Plant_F,France,Atorvastatin 20mg,2023-11-03,68632,8145,20.3,4,475360.22,Equipment failure
+BCH000072,Plant_D,India,Paracetamol 500mg,2023-12-24,175384,9331,23.5,3,228579.97,
+BCH000073,Plant_D,India,Amoxicillin 500mg,2023-09-28,133744,8065,17.6,1,163329.22,
+BCH000074,Plant_B,USA,Omeprazole 20mg,2023-11-07,158966,8758,27.0,0,207283.91,
+BCH000075,Plant_E,Brazil,Omeprazole 20mg,2023-09-02,249599,16410,15.2,8,313831.43,
+BCH000076,Plant_D,India,Insulin Lispro,2023-12-01,139316,2909,11.1,0,158079.77,
+BCH000077,Plant_C,Germany,Ibuprofen 400mg,2023-09-28,246291,15497,11.8,0,1761408.6,
+BCH000078,Plant_B,USA,Losartan 50mg,2023-10-23,243417,14966,12.5,0,303268.46,
+BCH000079,Plant_E,Brazil,Omeprazole 20mg,2023-10-22,54579,7357,9.8,3,71282.58,Process deviation
+BCH000080,Plant_B,USA,Insulin Lispro,2023-08-03,236717,17855,16.2,0,273494.72,Contamination
+BCH000081,Plant_A,Mexico,Paracetamol 500mg,2023-12-28,25777,7122,13.6,2,28179.57,Process deviation
+BCH000082,Plant_A,Mexico,Omeprazole 20mg,2023-10-23,115895,12407,19.7,0,143833.63,Equipment failure
+BCH000083,Plant_F,France,Amoxicillin 500mg,2023-10-19,77176,10176,15.2,0,483301.09,Equipment failure
+BCH000084,Plant_B,USA,Atorvastatin 20mg,2023-12-04,60549,10377,20.9,0,77100.58,Temperature deviation
+BCH000085,Plant_C,Germany,Metformin 850mg,2023-10-01,79527,6546,20.6,0,565400.28,Contamination
+BCH000086,Plant_B,USA,Omeprazole 20mg,2023-12-20,182041,3484,12.1,0,207134.5,
+BCH000087,Plant_C,Germany,Losartan 50mg,2023-10-02,246018,28194,29.6,1,1636087.06,Temperature deviation
+BCH000088,Plant_A,Mexico,Ibuprofen 400mg,2023-12-03,187055,14898,11.8,3,219386.52,Equipment failure
+BCH000089,Plant_A,Mexico,Losartan 50mg,2023-11-12,58723,6232,12.1,0,79688.14,Equipment failure
+BCH000090,Plant_F,France,Ibuprofen 400mg,2023-11-10,42569,8090,14.3,0,299715.94,Equipment failure
+BCH000091,Plant_D,India,Atorvastatin 20mg,2023-11-26,202285,5524,11.0,0,242980.2,
+BCH000092,Plant_F,France,Ibuprofen 400mg,2023-11-09,190556,66774,18.4,3,1336082.54,Equipment failure
+BCH000093,Plant_A,Mexico,Insulin Glargine,2023-12-02,177956,5548,20.6,0,239671.75,
+BCH000094,Plant_F,France,Aspirin 100mg,2023-09-01,79814,13664,25.9,0,492477.79,Process deviation
+BCH000095,Plant_D,India,Ibuprofen 400mg,2023-07-30,37430,3533,17.7,0,51427.91,Contamination
+BCH000096,Plant_C,Germany,Atorvastatin 20mg,2023-12-01,230516,87390,27.8,1,1452899.65,Contamination
+BCH000097,Plant_D,India,Insulin Lispro,2023-10-17,52713,2625,21.8,0,74764.93,
+BCH000098,Plant_C,Germany,Amoxicillin 500mg,2023-08-20,23731,4077,25.3,1,180191.63,Contamination
+BCH000099,Plant_A,Mexico,Omeprazole 20mg,2023-10-20,235747,17049,24.8,0,302972.68,Contamination
+BCH000100,Plant_E,Brazil,Aspirin 100mg,2023-12-23,131824,4240,16.7,4,148420.1,
+BCH000101,Plant_A,Mexico,Insulin Lispro,2023-07-05,236963,13664,23.3,2,310614.22,
+BCH000102,Plant_C,Germany,Losartan 50mg,2023-12-13,129557,20103,16.8,5,905294.31,Temperature deviation
+BCH000103,Plant_B,USA,Losartan 50mg,2023-12-14,200385,4970,28.5,0,279329.6,
+BCH000104,Plant_D,India,Omeprazole 20mg,2023-11-30,137771,36682,21.3,0,177375.18,Contamination
+BCH000105,Plant_A,Mexico,Amoxicillin 500mg,2023-09-29,129148,11340,29.7,0,144744.65,Process deviation
+BCH000106,Plant_C,Germany,Losartan 50mg,2023-11-18,225084,42092,15.4,0,1340777.04,Equipment failure
+BCH000107,Plant_D,India,Insulin Lispro,2023-07-08,206881,26732,24.2,0,249271.57,Temperature deviation
+BCH000108,Plant_A,Mexico,Insulin Glargine,2023-10-10,116382,669,17.2,0,146572.93,
+BCH000109,Plant_B,USA,Ibuprofen 400mg,2023-12-02,217708,3293,11.9,0,287129.3,
+BCH000110,Plant_A,Mexico,Atorvastatin 20mg,2023-10-31,187940,15298,9.5,1,243258.0,Process deviation
+BCH000111,Plant_A,Mexico,Paracetamol 500mg,2023-11-14,24369,872,18.4,0,26639.16,
+BCH000112,Plant_E,Brazil,Omeprazole 20mg,2023-10-13,46514,2000,16.8,1,57615.71,
+BCH000113,Plant_C,Germany,Ibuprofen 400mg,2023-07-24,105346,6720,14.0,6,692961.05,
+BCH000114,Plant_E,Brazil,Paracetamol 500mg,2023-09-13,231895,4817,8.6,2,305455.02,
+BCH000115,Plant_E,Brazil,Amoxicillin 500mg,2023-10-17,66131,3444,11.9,0,90465.21,
+BCH000116,Plant_E,Brazil,Aspirin 100mg,2023-09-14,137591,3124,26.3,2,190983.29,
+BCH000117,Plant_B,USA,Metformin 850mg,2023-10-25,55969,13264,9.9,5,60708.49,Temperature deviation
+BCH000118,Plant_B,USA,Metformin 850mg,2023-11-01,77261,9799,13.7,3,92949.17,Contamination
+BCH000119,Plant_D,India,Ibuprofen 400mg,2023-07-24,205376,48763,17.6,0,262621.89,Equipment failure
+BCH000120,Plant_E,Brazil,Ibuprofen 400mg,2023-09-07,65988,6084,27.7,4,82846.3,Equipment failure
+BCH000121,Plant_C,Germany,Amoxicillin 500mg,2023-12-04,119638,11421,13.7,1,847669.03,Equipment failure
+BCH000122,Plant_A,Mexico,Amoxicillin 500mg,2023-09-05,136686,12491,8.4,0,161020.3,Temperature deviation
+BCH000123,Plant_A,Mexico,Losartan 50mg,2023-11-16,86853,1248,8.2,3,100255.43,
+BCH000124,Plant_F,France,Atorvastatin 20mg,2023-08-14,113907,18053,17.2,0,869463.9,Equipment failure
+BCH000125,Plant_D,India,Aspirin 100mg,2023-07-26,164107,27652,21.3,2,182127.18,Contamination
+BCH000126,Plant_A,Mexico,Atorvastatin 20mg,2023-11-18,37254,2462,20.5,2,44219.15,
+BCH000127,Plant_F,France,Insulin Lispro,2023-07-07,242792,29364,15.4,0,1702905.1,Contamination
+BCH000128,Plant_E,Brazil,Aspirin 100mg,2023-08-20,83751,1575,26.0,0,97880.19,
+BCH000129,Plant_E,Brazil,Insulin Glargine,2023-09-26,137067,34679,28.2,0,152551.4,Equipment failure
+BCH000130,Plant_F,France,Paracetamol 500mg,2023-11-18,94843,28324,24.1,1,716277.51,Process deviation
+BCH000131,Plant_B,USA,Paracetamol 500mg,2023-08-02,88625,8082,12.9,0,111330.1,Process deviation
+BCH000132,Plant_D,India,Losartan 50mg,2023-08-09,249132,34251,8.7,1,351170.43,Equipment failure
+BCH000133,Plant_B,USA,Omeprazole 20mg,2023-10-04,182970,15072,27.0,6,228843.71,Process deviation
+BCH000134,Plant_C,Germany,Amoxicillin 500mg,2023-12-06,204401,24001,10.7,1,1287423.22,Contamination
+BCH000135,Plant_B,USA,Losartan 50mg,2023-08-21,71270,4692,19.9,0,85061.07,
+BCH000136,Plant_D,India,Ibuprofen 400mg,2023-10-27,72155,9916,8.5,1,83978.71,Process deviation
+BCH000137,Plant_B,USA,Aspirin 100mg,2023-08-12,120506,2011,24.9,8,145361.12,
+BCH000138,Plant_F,France,Insulin Lispro,2023-11-17,248080,24242,17.2,8,1822924.87,Temperature deviation
+BCH000139,Plant_F,France,Insulin Lispro,2023-07-03,146410,26967,14.5,0,938505.09,Temperature deviation
+BCH000140,Plant_A,Mexico,Losartan 50mg,2023-09-19,239689,31157,28.9,2,277696.82,Equipment failure
+BCH000141,Plant_C,Germany,Omeprazole 20mg,2023-11-30,65852,14220,21.5,6,445253.88,Process deviation
+BCH000142,Plant_C,Germany,Atorvastatin 20mg,2023-08-25,37252,3379,11.9,1,234680.38,Process deviation
+BCH000143,Plant_C,Germany,Losartan 50mg,2023-12-24,25945,5294,27.4,0,200807.82,Process deviation
+BCH000144,Plant_A,Mexico,Amoxicillin 500mg,2023-07-14,36510,1300,12.9,0,50153.78,
+BCH000145,Plant_F,France,Losartan 50mg,2023-08-04,195109,11681,13.8,0,1475228.65,
+BCH000146,Plant_A,Mexico,Paracetamol 500mg,2023-08-04,50422,6667,17.0,1,56034.74,Temperature deviation
+BCH000147,Plant_D,India,Insulin Lispro,2023-08-16,185741,15270,23.0,0,215323.22,Temperature deviation
+BCH000148,Plant_E,Brazil,Aspirin 100mg,2023-11-04,198633,7002,15.7,1,273494.83,
+BCH000149,Plant_E,Brazil,Atorvastatin 20mg,2023-08-11,28477,6240,26.7,3,37505.42,Equipment failure
+BCH000150,Plant_D,India,Losartan 50mg,2023-11-08,58161,5255,24.6,2,75766.34,Temperature deviation
+BCH000151,Plant_D,India,Insulin Glargine,2023-09-06,200082,23554,26.3,0,275006.33,Contamination
+BCH000152,Plant_A,Mexico,Aspirin 100mg,2023-08-15,109478,4134,19.9,0,143223.72,
+BCH000153,Plant_F,France,Paracetamol 500mg,2023-07-05,195108,33183,21.9,7,1271450.69,Contamination
+BCH000154,Plant_C,Germany,Amoxicillin 500mg,2023-10-11,147485,23002,20.8,2,882157.0,Process deviation
+BCH000155,Plant_E,Brazil,Paracetamol 500mg,2023-09-01,207312,20473,24.5,7,296206.56,Temperature deviation
+BCH000156,Plant_C,Germany,Amoxicillin 500mg,2023-08-05,69559,8689,29.9,0,444034.88,Contamination
+BCH000157,Plant_E,Brazil,Atorvastatin 20mg,2023-08-10,195150,18973,9.8,2,226271.95,Contamination
+BCH000158,Plant_F,France,Atorvastatin 20mg,2023-11-10,164348,39080,28.8,0,1099989.85,Temperature deviation
+BCH000159,Plant_E,Brazil,Amoxicillin 500mg,2023-10-06,72693,12536,27.7,8,89220.5,Contamination
+BCH000160,Plant_C,Germany,Insulin Lispro,2023-08-01,238917,121491,12.1,0,1848734.29,Contamination
+BCH000161,Plant_A,Mexico,Omeprazole 20mg,2023-07-18,152643,24119,10.9,3,199266.17,Contamination
+BCH000162,Plant_D,India,Amoxicillin 500mg,2023-11-09,40506,4833,10.8,0,45457.09,Equipment failure
+BCH000163,Plant_A,Mexico,Paracetamol 500mg,2023-11-25,126291,20505,13.9,0,162853.47,Temperature deviation
+BCH000164,Plant_A,Mexico,Losartan 50mg,2023-09-29,217510,14744,18.6,0,265644.46,
+BCH000165,Plant_B,USA,Insulin Lispro,2023-12-19,184510,1666,18.6,3,201902.43,
+BCH000166,Plant_E,Brazil,Ibuprofen 400mg,2023-10-12,184511,5607,8.2,2,236445.96,
+BCH000167,Plant_B,USA,Amoxicillin 500mg,2023-07-29,209567,7243,16.7,0,232260.65,
+BCH000168,Plant_F,France,Aspirin 100mg,2023-09-01,114623,12675,10.3,0,707979.39,Equipment failure
+BCH000169,Plant_F,France,Atorvastatin 20mg,2023-12-12,28439,4548,15.5,2,210828.82,Equipment failure
+BCH000170,Plant_F,France,Omeprazole 20mg,2023-11-11,94479,14562,24.1,1,649683.44,Temperature deviation
+BCH000171,Plant_E,Brazil,Paracetamol 500mg,2023-08-06,83408,9290,20.2,2,105039.9,Contamination
+BCH000172,Plant_B,USA,Amoxicillin 500mg,2023-11-11,22272,1142,8.7,2,24632.64,
+BCH000173,Plant_A,Mexico,Omeprazole 20mg,2023-09-01,42821,2924,15.6,2,52805.9,
+BCH000174,Plant_A,Mexico,Insulin Lispro,2023-12-19,79880,5495,27.2,2,100265.44,
+BCH000175,Plant_C,Germany,Atorvastatin 20mg,2023-09-16,72212,33376,21.7,5,452104.26,Equipment failure
+BCH000176,Plant_B,USA,Aspirin 100mg,2023-11-02,29345,1676,13.2,5,33590.81,
+BCH000177,Plant_C,Germany,Insulin Glargine,2023-11-18,226588,46689,17.8,0,1710277.68,Temperature deviation
+BCH000178,Plant_B,USA,Ibuprofen 400mg,2023-07-22,121661,6043,13.7,0,173852.16,
+BCH000179,Plant_B,USA,Omeprazole 20mg,2023-12-26,36118,397,13.2,7,44907.83,
+BCH000180,Plant_E,Brazil,Ibuprofen 400mg,2023-08-04,103036,4479,13.5,3,127261.77,
+BCH000181,Plant_F,France,Atorvastatin 20mg,2023-10-17,98580,8094,22.6,0,718252.3,Temperature deviation
+BCH000182,Plant_A,Mexico,Ibuprofen 400mg,2023-10-11,172094,17562,10.5,4,198614.17,Equipment failure
+BCH000183,Plant_D,India,Insulin Glargine,2023-10-07,37785,3896,17.9,0,42468.81,Equipment failure
+BCH000184,Plant_D,India,Atorvastatin 20mg,2023-08-14,135659,6006,29.2,0,194696.01,
+BCH000185,Plant_D,India,Omeprazole 20mg,2023-12-15,176971,1633,18.8,0,223977.08,
+BCH000186,Plant_D,India,Metformin 850mg,2023-12-02,81466,6922,10.1,2,116428.63,Process deviation
+BCH000187,Plant_F,France,Aspirin 100mg,2023-07-04,76118,4247,28.8,2,569691.84,
+BCH000188,Plant_D,India,Losartan 50mg,2023-09-21,173165,7492,28.5,1,188912.51,
+BCH000189,Plant_E,Brazil,Paracetamol 500mg,2023-08-28,100428,9490,10.3,0,132006.97,Temperature deviation
+BCH000190,Plant_B,USA,Losartan 50mg,2023-07-22,81249,9891,24.2,3,104333.94,Process deviation
+BCH000191,Plant_D,India,Losartan 50mg,2023-08-17,108273,15129,25.6,3,146647.4,Contamination
+BCH000192,Plant_C,Germany,Atorvastatin 20mg,2023-08-02,239571,21850,16.1,0,1553124.99,Equipment failure
+BCH000193,Plant_D,India,Atorvastatin 20mg,2023-10-09,102120,10504,13.0,0,124011.53,Contamination
+BCH000194,Plant_D,India,Insulin Glargine,2023-11-07,103510,14608,27.0,0,125942.99,Temperature deviation
+BCH000195,Plant_E,Brazil,Amoxicillin 500mg,2023-11-19,30755,4877,20.8,0,37631.09,Temperature deviation
+BCH000196,Plant_B,USA,Aspirin 100mg,2023-09-02,168473,9836,8.4,2,239903.62,
+BCH000197,Plant_C,Germany,Omeprazole 20mg,2023-08-14,196375,51831,15.7,0,1506618.51,Temperature deviation
+BCH000198,Plant_E,Brazil,Paracetamol 500mg,2023-09-17,235242,34223,19.9,0,322067.31,Equipment failure
+BCH000199,Plant_F,France,Paracetamol 500mg,2023-07-14,159521,17315,12.0,0,971112.46,Temperature deviation
+BCH000200,Plant_A,Mexico,Aspirin 100mg,2023-11-11,73572,9197,13.6,0,94483.55,Process deviation
+BCH000201,Plant_E,Brazil,Ibuprofen 400mg,2023-11-16,148052,2574,28.9,0,193642.32,
+BCH000202,Plant_B,USA,Insulin Glargine,2023-10-11,135338,9912,17.0,0,175933.06,Process deviation
+BCH000203,Plant_C,Germany,Paracetamol 500mg,2023-07-29,144426,28715,26.1,3,922285.92,Temperature deviation
+BCH000204,Plant_D,India,Metformin 850mg,2023-08-19,36440,5256,11.7,0,47050.56,Contamination
+BCH000205,Plant_C,Germany,Metformin 850mg,2023-11-29,83678,19568,21.4,0,594268.14,Process deviation
+BCH000206,Plant_F,France,Omeprazole 20mg,2023-08-01,50097,13617,11.0,0,389563.38,Temperature deviation
+BCH000207,Plant_E,Brazil,Omeprazole 20mg,2023-08-29,241262,7532,10.8,2,346657.83,
+BCH000208,Plant_C,Germany,Amoxicillin 500mg,2023-10-31,162029,3657,27.7,0,974933.94,
+BCH000209,Plant_A,Mexico,Omeprazole 20mg,2023-07-13,124012,29685,9.5,0,157106.03,Process deviation
+BCH000210,Plant_C,Germany,Aspirin 100mg,2023-10-12,215624,21160,15.1,2,1485491.46,Equipment failure
+BCH000211,Plant_B,USA,Aspirin 100mg,2023-08-28,42398,650,20.4,0,46707.81,
+BCH000212,Plant_E,Brazil,Amoxicillin 500mg,2023-07-10,153504,20637,24.6,0,190672.47,Contamination
+BCH000213,Plant_C,Germany,Insulin Glargine,2023-10-26,39014,17800,11.4,0,258610.78,Temperature deviation
+BCH000214,Plant_B,USA,Amoxicillin 500mg,2023-08-27,180846,28351,10.8,0,244485.23,Temperature deviation
+BCH000215,Plant_F,France,Omeprazole 20mg,2023-10-11,208322,42462,15.9,0,1325567.37,Contamination
+BCH000216,Plant_F,France,Omeprazole 20mg,2023-10-05,212630,5481,28.2,1,1457700.89,
+BCH000217,Plant_B,USA,Ibuprofen 400mg,2023-08-21,190083,17652,26.0,6,213252.58,Temperature deviation
+BCH000218,Plant_D,India,Paracetamol 500mg,2023-11-24,67642,9902,9.8,3,80472.64,Contamination
+BCH000219,Plant_C,Germany,Ibuprofen 400mg,2023-10-20,240452,18329,26.1,7,1707184.08,Equipment failure
+BCH000220,Plant_F,France,Insulin Glargine,2023-12-11,145932,20222,16.8,0,996716.12,Temperature deviation
+BCH000221,Plant_A,Mexico,Aspirin 100mg,2023-09-05,96553,7069,20.1,0,137754.24,Process deviation
+BCH000222,Plant_E,Brazil,Aspirin 100mg,2023-08-13,188315,12649,22.1,0,210543.57,
+BCH000223,Plant_F,France,Omeprazole 20mg,2023-12-11,39508,13717,18.1,0,291272.14,Contamination
+BCH000224,Plant_F,France,Insulin Lispro,2023-08-03,168274,36357,14.7,0,1024233.46,Process deviation
+BCH000225,Plant_B,USA,Paracetamol 500mg,2023-11-20,61858,6763,21.5,8,84932.85,Process deviation
+BCH000226,Plant_F,France,Paracetamol 500mg,2023-07-28,77640,33469,17.9,0,588424.1,Temperature deviation
+BCH000227,Plant_E,Brazil,Losartan 50mg,2023-09-27,147635,10087,8.2,2,200333.28,
+BCH000228,Plant_B,USA,Insulin Lispro,2023-09-29,125687,11434,19.8,3,141945.81,Equipment failure
+BCH000229,Plant_A,Mexico,Insulin Glargine,2023-09-15,198802,6731,18.7,4,221725.8,
+BCH000230,Plant_F,France,Ibuprofen 400mg,2023-09-09,153718,26851,18.1,0,1017494.6,Contamination
+BCH000231,Plant_F,France,Metformin 850mg,2023-10-29,81711,16333,17.6,0,587654.29,Equipment failure
+BCH000232,Plant_A,Mexico,Ibuprofen 400mg,2023-11-17,120093,16008,22.5,0,157248.88,Temperature deviation
+BCH000233,Plant_D,India,Paracetamol 500mg,2023-11-11,230339,18530,24.2,1,261218.44,Equipment failure
+BCH000234,Plant_F,France,Ibuprofen 400mg,2023-10-25,97839,41179,9.6,2,586110.84,Equipment failure
+BCH000235,Plant_F,France,Atorvastatin 20mg,2023-12-18,112967,7395,12.1,3,806547.4,
+BCH000236,Plant_D,India,Metformin 850mg,2023-10-14,75958,10547,14.5,0,108500.66,Temperature deviation
+BCH000237,Plant_D,India,Aspirin 100mg,2023-10-31,135231,12175,25.0,0,175990.25,Process deviation
+BCH000238,Plant_F,France,Losartan 50mg,2023-10-24,117116,15410,29.6,3,752002.18,Equipment failure
+BCH000239,Plant_D,India,Aspirin 100mg,2023-11-25,97783,12817,15.4,2,110114.85,Equipment failure
+BCH000240,Plant_A,Mexico,Amoxicillin 500mg,2023-10-19,91184,4615,10.7,6,106379.76,
+BCH000241,Plant_D,India,Metformin 850mg,2023-09-17,199128,18612,26.6,3,276806.48,Process deviation
+BCH000242,Plant_A,Mexico,Metformin 850mg,2023-09-15,71101,4633,25.1,4,95435.79,
+BCH000243,Plant_F,France,Omeprazole 20mg,2023-09-16,27695,1846,11.6,6,164347.36,
+BCH000244,Plant_E,Brazil,Metformin 850mg,2023-12-28,117645,13743,24.1,1,162662.22,Temperature deviation
+BCH000245,Plant_A,Mexico,Amoxicillin 500mg,2023-10-16,109266,23352,27.2,1,145105.11,Equipment failure
+BCH000246,Plant_C,Germany,Insulin Glargine,2023-07-05,174991,50670,24.0,0,1107872.18,Temperature deviation
+BCH000247,Plant_E,Brazil,Atorvastatin 20mg,2023-12-24,218091,39463,12.1,2,283901.0,Contamination
+BCH000248,Plant_C,Germany,Insulin Lispro,2023-08-10,222112,84399,24.4,3,1314649.2,Temperature deviation
+BCH000249,Plant_F,France,Amoxicillin 500mg,2023-07-24,20908,1579,16.1,4,162932.95,Equipment failure
+BCH000250,Plant_F,France,Omeprazole 20mg,2023-07-30,215756,93299,23.3,0,1435772.59,Equipment failure
+BCH000251,Plant_B,USA,Aspirin 100mg,2023-11-29,116687,20495,9.4,0,153004.33,Contamination
+BCH000252,Plant_B,USA,Metformin 850mg,2023-10-07,141763,18703,13.9,2,194186.4,Equipment failure
+BCH000253,Plant_C,Germany,Atorvastatin 20mg,2023-11-17,23077,2820,23.6,0,170320.93,Contamination
+BCH000254,Plant_B,USA,Metformin 850mg,2023-08-20,120907,7498,9.9,0,149470.91,
+BCH000255,Plant_F,France,Amoxicillin 500mg,2023-11-15,64227,14377,10.6,1,474125.04,Equipment failure
+BCH000256,Plant_F,France,Losartan 50mg,2023-09-20,237714,65245,16.0,1,1476139.45,Process deviation
+BCH000257,Plant_C,Germany,Amoxicillin 500mg,2023-10-23,162046,57942,13.7,0,1245214.05,Process deviation
+BCH000258,Plant_A,Mexico,Omeprazole 20mg,2023-08-26,184349,21272,9.8,0,207955.4,Equipment failure
+BCH000259,Plant_B,USA,Ibuprofen 400mg,2023-12-26,144713,14662,21.4,3,164568.63,Temperature deviation
+BCH000260,Plant_B,USA,Losartan 50mg,2023-12-09,153106,9084,14.2,0,168499.23,
+BCH000261,Plant_F,France,Omeprazole 20mg,2023-08-03,158055,48125,17.9,0,1158673.8,Temperature deviation
+BCH000262,Plant_D,India,Paracetamol 500mg,2023-08-29,125891,8388,11.1,0,177042.71,
+BCH000263,Plant_B,USA,Paracetamol 500mg,2023-07-18,114829,7335,29.2,0,151455.35,
+BCH000264,Plant_B,USA,Aspirin 100mg,2023-09-11,93971,4383,22.4,8,110166.98,
+BCH000265,Plant_B,USA,Aspirin 100mg,2023-11-06,92082,6414,10.5,1,111034.53,
+BCH000266,Plant_D,India,Atorvastatin 20mg,2023-07-14,190853,57389,10.5,1,242081.9,Process deviation
+BCH000267,Plant_D,India,Insulin Lispro,2023-08-22,124860,5357,18.1,1,138522.32,
+BCH000268,Plant_C,Germany,Atorvastatin 20mg,2023-07-07,243525,42147,20.0,0,1733751.46,Equipment failure
+BCH000269,Plant_B,USA,Losartan 50mg,2023-11-17,79912,8424,12.4,0,108924.86,Temperature deviation
+BCH000270,Plant_A,Mexico,Paracetamol 500mg,2023-09-05,219435,19753,27.3,1,253174.72,Temperature deviation
+BCH000271,Plant_B,USA,Atorvastatin 20mg,2023-10-09,105318,3994,8.6,8,143013.89,
+BCH000272,Plant_C,Germany,Metformin 850mg,2023-12-20,236681,44712,22.4,0,1433262.91,Equipment failure
+BCH000273,Plant_F,France,Omeprazole 20mg,2023-11-02,51960,6052,14.3,0,356990.8,Contamination
+BCH000274,Plant_E,Brazil,Ibuprofen 400mg,2023-12-22,182942,6265,19.7,0,257844.39,
+BCH000275,Plant_B,USA,Ibuprofen 400mg,2023-07-10,94686,11856,14.1,4,133148.55,Equipment failure
+BCH000276,Plant_F,France,Losartan 50mg,2023-08-16,49312,13921,11.3,5,351390.92,Contamination
+BCH000277,Plant_C,Germany,Atorvastatin 20mg,2023-08-06,127416,21798,29.3,3,870907.88,Equipment failure
+BCH000278,Plant_B,USA,Amoxicillin 500mg,2023-07-16,41440,4665,8.3,0,47175.46,Equipment failure
+BCH000279,Plant_E,Brazil,Omeprazole 20mg,2023-12-04,84422,6213,12.1,0,113407.34,Contamination
+BCH000280,Plant_B,USA,Insulin Lispro,2023-08-10,141954,12504,26.1,0,177388.62,Process deviation
+BCH000281,Plant_F,France,Omeprazole 20mg,2023-08-20,138816,48729,23.7,0,859109.33,Temperature deviation
+BCH000282,Plant_F,France,Losartan 50mg,2023-11-14,94652,16144,22.3,0,691926.13,Process deviation
+BCH000283,Plant_D,India,Amoxicillin 500mg,2023-11-10,180153,2585,10.8,7,235692.58,
+BCH000284,Plant_C,Germany,Aspirin 100mg,2023-07-02,189824,8866,13.0,0,1427227.37,
+BCH000285,Plant_C,Germany,Metformin 850mg,2023-10-21,28449,2793,12.7,1,183363.93,Temperature deviation
+BCH000286,Plant_F,France,Ibuprofen 400mg,2023-10-26,179962,41132,13.7,3,1286138.13,Contamination
+BCH000287,Plant_E,Brazil,Atorvastatin 20mg,2023-09-21,78289,6468,27.0,0,97526.88,Equipment failure
+BCH000288,Plant_B,USA,Amoxicillin 500mg,2023-10-26,198913,29416,26.9,5,234879.14,Equipment failure
+BCH000289,Plant_E,Brazil,Insulin Lispro,2023-08-03,190004,13346,24.0,0,271061.93,Process deviation
+BCH000290,Plant_B,USA,Atorvastatin 20mg,2023-12-26,204295,22114,19.9,0,272392.03,Equipment failure
+BCH000291,Plant_E,Brazil,Aspirin 100mg,2023-09-05,111264,21291,24.4,0,132178.39,Temperature deviation
+BCH000292,Plant_E,Brazil,Ibuprofen 400mg,2023-12-16,84257,4337,13.3,0,93392.89,
+BCH000293,Plant_B,USA,Losartan 50mg,2023-08-26,92098,18374,9.4,4,116754.52,Temperature deviation
+BCH000294,Plant_C,Germany,Amoxicillin 500mg,2023-07-09,86951,15142,26.2,5,622129.23,Process deviation
+BCH000295,Plant_A,Mexico,Atorvastatin 20mg,2023-11-16,182030,14691,25.0,0,225071.82,Contamination
+BCH000296,Plant_E,Brazil,Aspirin 100mg,2023-08-28,84464,25188,23.5,1,109212.88,Contamination
+BCH000297,Plant_D,India,Metformin 850mg,2023-08-17,83653,14261,28.9,0,109987.03,Temperature deviation
+BCH000298,Plant_B,USA,Atorvastatin 20mg,2023-11-28,79810,6312,16.0,0,93503.88,Equipment failure
+BCH000299,Plant_E,Brazil,Aspirin 100mg,2023-08-17,232100,48585,12.6,1,274120.77,Temperature deviation
+BCH000300,Plant_B,USA,Insulin Glargine,2023-09-26,163056,1487,14.5,1,206194.16,
+BCH000301,Plant_D,India,Losartan 50mg,2023-11-04,21032,1061,19.2,0,25328.42,
+BCH000302,Plant_C,Germany,Omeprazole 20mg,2023-10-09,184250,29473,17.3,0,1219628.75,Contamination
+BCH000303,Plant_E,Brazil,Omeprazole 20mg,2023-11-12,57907,7912,29.0,0,79712.72,Process deviation
+BCH000304,Plant_F,France,Insulin Lispro,2023-08-11,80556,9787,10.5,1,579105.03,Equipment failure
+BCH000305,Plant_F,France,Omeprazole 20mg,2023-12-27,179762,37767,9.6,0,1314922.57,Equipment failure
+BCH000306,Plant_A,Mexico,Insulin Lispro,2023-09-14,115334,8771,21.1,2,139587.72,Process deviation
+BCH000307,Plant_D,India,Metformin 850mg,2023-08-11,133776,10351,9.5,0,187939.65,Temperature deviation
+BCH000308,Plant_F,France,Aspirin 100mg,2023-12-21,94866,6467,20.7,0,644870.7,
+BCH000309,Plant_B,USA,Paracetamol 500mg,2023-11-10,129069,1113,17.5,4,171571.09,
+BCH000310,Plant_A,Mexico,Insulin Glargine,2023-10-21,21445,481,26.1,0,29324.26,
+BCH000311,Plant_D,India,Atorvastatin 20mg,2023-07-25,181842,2658,23.1,1,242579.21,
+BCH000312,Plant_B,USA,Metformin 850mg,2023-07-29,183137,6108,11.4,5,220591.43,
+BCH000313,Plant_B,USA,Insulin Glargine,2023-12-09,74161,6205,14.8,0,91030.14,Temperature deviation
+BCH000314,Plant_B,USA,Insulin Glargine,2023-10-06,137963,14463,23.1,8,171548.79,Temperature deviation
+BCH000315,Plant_F,France,Ibuprofen 400mg,2023-07-13,146938,36251,8.9,7,969673.7,Equipment failure
+BCH000316,Plant_E,Brazil,Aspirin 100mg,2023-07-30,166970,13230,14.4,3,207889.05,Temperature deviation
+BCH000317,Plant_E,Brazil,Metformin 850mg,2023-07-22,93254,6492,14.3,3,133749.06,
+BCH000318,Plant_B,USA,Losartan 50mg,2023-11-27,197945,13041,20.2,1,224765.01,
+BCH000319,Plant_E,Brazil,Metformin 850mg,2023-08-13,244260,44501,12.3,0,286605.05,Equipment failure
+BCH000320,Plant_C,Germany,Omeprazole 20mg,2023-07-02,68694,12699,20.8,1,448378.81,Temperature deviation
+BCH000321,Plant_F,France,Metformin 850mg,2023-07-14,136273,30758,27.4,0,1061294.72,Equipment failure
+BCH000322,Plant_C,Germany,Ibuprofen 400mg,2023-09-10,97221,19069,18.5,0,576223.63,Equipment failure
+BCH000323,Plant_D,India,Amoxicillin 500mg,2023-08-31,92212,8054,10.7,0,125830.98,Contamination
+BCH000324,Plant_F,France,Insulin Glargine,2023-09-18,217979,76550,29.6,0,1471841.6,Temperature deviation
+BCH000325,Plant_C,Germany,Ibuprofen 400mg,2023-09-17,246307,31554,24.8,0,1538503.73,Equipment failure
+BCH000326,Plant_B,USA,Losartan 50mg,2023-07-08,58586,13292,17.0,4,83957.61,Equipment failure
+BCH000327,Plant_D,India,Metformin 850mg,2023-09-11,33322,2570,17.7,0,46231.82,Process deviation
+BCH000328,Plant_F,France,Ibuprofen 400mg,2023-12-16,118439,29767,11.0,2,852812.7,Contamination
+BCH000329,Plant_A,Mexico,Paracetamol 500mg,2023-08-28,79576,3657,8.2,0,113370.44,
+BCH000330,Plant_A,Mexico,Losartan 50mg,2023-08-12,94981,4022,26.4,0,127809.57,
+BCH000331,Plant_C,Germany,Paracetamol 500mg,2023-11-09,97217,20799,26.6,2,713954.46,Contamination
+BCH000332,Plant_A,Mexico,Amoxicillin 500mg,2023-11-05,132121,6500,9.5,0,162054.11,
+BCH000333,Plant_E,Brazil,Ibuprofen 400mg,2023-09-20,74339,2729,19.5,0,105846.95,
+BCH000334,Plant_D,India,Losartan 50mg,2023-08-04,214849,15209,9.6,2,235921.68,Contamination
+BCH000335,Plant_E,Brazil,Losartan 50mg,2023-10-13,206286,10308,16.9,3,291796.11,
+BCH000336,Plant_A,Mexico,Paracetamol 500mg,2023-12-19,121393,5403,21.3,1,173887.36,
+BCH000337,Plant_D,India,Omeprazole 20mg,2023-09-19,232185,2668,20.9,1,288319.42,
+BCH000338,Plant_E,Brazil,Insulin Glargine,2023-11-08,105630,9925,25.7,2,145358.77,Temperature deviation
+BCH000339,Plant_E,Brazil,Aspirin 100mg,2023-12-12,102005,7034,14.3,0,128404.95,
+BCH000340,Plant_E,Brazil,Aspirin 100mg,2023-08-11,89567,8180,19.2,0,96736.7,Equipment failure
+BCH000341,Plant_C,Germany,Aspirin 100mg,2023-10-07,198755,29757,13.4,4,1164197.25,Temperature deviation
+BCH000342,Plant_C,Germany,Metformin 850mg,2023-11-04,138636,13717,14.9,0,1038839.5,Process deviation
+BCH000343,Plant_E,Brazil,Aspirin 100mg,2023-10-15,46617,2999,10.0,0,66525.64,
+BCH000344,Plant_C,Germany,Metformin 850mg,2023-08-14,205844,111732,11.7,2,1205938.8,Equipment failure
+BCH000345,Plant_F,France,Aspirin 100mg,2023-11-30,40641,6276,14.6,6,293426.15,Equipment failure
+BCH000346,Plant_E,Brazil,Ibuprofen 400mg,2023-12-27,180096,13027,19.0,0,256537.38,Contamination
+BCH000347,Plant_E,Brazil,Insulin Glargine,2023-09-03,134800,28596,24.9,0,148124.68,Process deviation
+BCH000348,Plant_E,Brazil,Ibuprofen 400mg,2023-12-27,196963,12314,27.4,2,246207.97,
+BCH000349,Plant_E,Brazil,Atorvastatin 20mg,2023-07-02,193915,15329,24.2,0,254918.78,Process deviation
+BCH000350,Plant_A,Mexico,Atorvastatin 20mg,2023-12-05,164324,39562,14.3,0,230132.05,Equipment failure
+BCH000351,Plant_F,France,Paracetamol 500mg,2023-09-10,233920,131018,15.4,0,1541353.48,Contamination
+BCH000352,Plant_F,France,Metformin 850mg,2023-08-31,31566,6490,21.1,0,217342.28,Process deviation
+BCH000353,Plant_D,India,Amoxicillin 500mg,2023-11-01,85271,2555,25.0,2,101666.14,
+BCH000354,Plant_F,France,Amoxicillin 500mg,2023-09-14,178173,27224,25.8,0,1309893.78,Contamination
+BCH000355,Plant_A,Mexico,Omeprazole 20mg,2023-10-16,164386,10683,8.0,0,199536.02,
+BCH000356,Plant_D,India,Metformin 850mg,2023-12-27,219505,9078,25.2,0,308071.28,
+BCH000357,Plant_E,Brazil,Insulin Glargine,2023-07-10,108412,14518,13.4,0,125992.6,Process deviation
+BCH000358,Plant_C,Germany,Insulin Glargine,2023-11-16,35522,3260,25.3,6,273104.23,Process deviation
+BCH000359,Plant_A,Mexico,Ibuprofen 400mg,2023-07-07,38650,4253,11.1,0,44466.82,Equipment failure
+BCH000360,Plant_A,Mexico,Atorvastatin 20mg,2023-08-28,118652,17811,16.5,3,155308.79,Equipment failure
+BCH000361,Plant_F,France,Paracetamol 500mg,2023-08-07,88973,4653,27.6,0,602033.77,
+BCH000362,Plant_F,France,Metformin 850mg,2023-07-07,123094,16885,11.0,1,827556.43,Temperature deviation
+BCH000363,Plant_E,Brazil,Omeprazole 20mg,2023-09-07,116985,8333,14.0,2,129554.58,Temperature deviation
+BCH000364,Plant_D,India,Atorvastatin 20mg,2023-07-22,32833,1702,17.8,0,37418.78,
+BCH000365,Plant_C,Germany,Losartan 50mg,2023-10-07,196122,41056,29.9,0,1511176.52,Temperature deviation
+BCH000366,Plant_E,Brazil,Insulin Lispro,2023-10-09,190974,2915,29.6,0,249038.42,
+BCH000367,Plant_E,Brazil,Amoxicillin 500mg,2023-07-24,185144,23331,29.5,7,234711.76,Temperature deviation
+BCH000368,Plant_B,USA,Omeprazole 20mg,2023-10-01,35264,1492,22.7,0,46217.76,
+BCH000369,Plant_E,Brazil,Amoxicillin 500mg,2023-07-26,189896,22455,15.9,0,205705.57,Temperature deviation
+BCH000370,Plant_B,USA,Atorvastatin 20mg,2023-10-29,141921,3194,17.4,2,158148.78,
+BCH000371,Plant_D,India,Insulin Glargine,2023-12-13,83369,7116,28.2,0,101978.73,Equipment failure
+BCH000372,Plant_D,India,Paracetamol 500mg,2023-08-04,227569,8073,20.7,5,323679.19,
+BCH000373,Plant_A,Mexico,Atorvastatin 20mg,2023-07-12,135144,24123,13.3,0,177901.83,Equipment failure
+BCH000374,Plant_A,Mexico,Omeprazole 20mg,2023-11-14,172030,16644,27.1,0,196644.02,Equipment failure
+BCH000375,Plant_F,France,Metformin 850mg,2023-08-12,26620,648,15.8,3,170391.09,
+BCH000376,Plant_F,France,Metformin 850mg,2023-12-01,121152,14544,21.0,0,757094.14,Contamination
+BCH000377,Plant_C,Germany,Paracetamol 500mg,2023-07-28,46026,7792,28.7,0,275445.58,Contamination
+BCH000378,Plant_B,USA,Paracetamol 500mg,2023-09-29,120534,8456,27.3,2,136754.77,Equipment failure
+BCH000379,Plant_E,Brazil,Atorvastatin 20mg,2023-12-26,203756,7197,8.0,0,276210.99,
+BCH000380,Plant_F,France,Losartan 50mg,2023-07-29,189491,9339,14.7,0,1220926.04,
+BCH000381,Plant_E,Brazil,Metformin 850mg,2023-10-31,178560,11197,15.2,0,212317.68,
+BCH000382,Plant_F,France,Insulin Glargine,2023-11-10,199025,62687,29.7,5,1477373.0,Equipment failure
+BCH000383,Plant_F,France,Paracetamol 500mg,2023-08-07,121527,19194,23.6,0,839966.56,Process deviation
+BCH000384,Plant_A,Mexico,Insulin Glargine,2023-08-23,135434,1772,21.2,0,159205.02,
+BCH000385,Plant_D,India,Paracetamol 500mg,2023-08-12,71421,10549,16.1,1,90219.05,Contamination
+BCH000386,Plant_F,France,Amoxicillin 500mg,2023-12-04,198855,47907,23.3,0,1520433.26,Equipment failure
+BCH000387,Plant_B,USA,Paracetamol 500mg,2023-07-04,153721,22715,15.4,0,185129.75,Temperature deviation
+BCH000388,Plant_C,Germany,Losartan 50mg,2023-11-16,234125,54290,18.9,1,1802019.57,Process deviation
+BCH000389,Plant_C,Germany,Aspirin 100mg,2023-10-30,162385,39468,26.5,0,957929.76,Process deviation
+BCH000390,Plant_E,Brazil,Amoxicillin 500mg,2023-08-11,172269,12472,29.3,3,219938.4,Temperature deviation
+BCH000391,Plant_C,Germany,Ibuprofen 400mg,2023-08-23,23437,1930,20.2,0,173668.33,Process deviation
+BCH000392,Plant_E,Brazil,Ibuprofen 400mg,2023-08-16,132470,11774,25.5,4,175148.27,Contamination
+BCH000393,Plant_B,USA,Metformin 850mg,2023-11-18,70337,2133,22.8,5,76271.79,
+BCH000394,Plant_E,Brazil,Paracetamol 500mg,2023-11-28,124530,38005,15.3,0,162345.44,Contamination
+BCH000395,Plant_D,India,Amoxicillin 500mg,2023-07-23,77083,9119,23.1,0,95258.87,Temperature deviation
+BCH000396,Plant_F,France,Paracetamol 500mg,2023-07-12,83562,14166,21.9,1,598252.47,Contamination
+BCH000397,Plant_E,Brazil,Metformin 850mg,2023-11-19,41496,1547,17.5,0,48943.49,
+BCH000398,Plant_C,Germany,Atorvastatin 20mg,2023-10-27,180392,22509,16.9,7,1095149.34,Contamination
+BCH000399,Plant_B,USA,Losartan 50mg,2023-10-10,96298,4684,12.5,0,113163.58,
+BCH000400,Plant_C,Germany,Insulin Lispro,2023-09-06,83603,40117,9.7,7,587486.02,Contamination
+BCH000401,Plant_B,USA,Ibuprofen 400mg,2023-08-22,245341,8320,22.3,1,320050.66,
+BCH000402,Plant_E,Brazil,Insulin Glargine,2023-10-21,204668,15451,14.0,1,244096.61,Process deviation
+BCH000403,Plant_A,Mexico,Ibuprofen 400mg,2023-09-03,50103,1505,17.0,2,66378.47,
+BCH000404,Plant_D,India,Metformin 850mg,2023-10-15,29775,3893,26.5,6,36434.26,Process deviation
+BCH000405,Plant_F,France,Insulin Glargine,2023-07-15,238441,72785,13.7,5,1596682.22,Contamination
+BCH000406,Plant_E,Brazil,Aspirin 100mg,2023-09-02,216065,10746,10.0,0,288891.65,
+BCH000407,Plant_D,India,Omeprazole 20mg,2023-08-13,152752,24965,14.0,0,176762.53,Temperature deviation
+BCH000408,Plant_C,Germany,Losartan 50mg,2023-08-19,214527,53931,9.8,1,1536463.77,Temperature deviation
+BCH000409,Plant_B,USA,Insulin Lispro,2023-12-21,178270,7174,12.4,6,227460.3,
+BCH000410,Plant_E,Brazil,Aspirin 100mg,2023-08-05,239086,21268,28.3,0,290154.93,Temperature deviation
+BCH000411,Plant_D,India,Amoxicillin 500mg,2023-12-07,79085,15215,25.3,5,104386.4,Process deviation
+BCH000412,Plant_B,USA,Amoxicillin 500mg,2023-08-14,133959,16875,22.3,0,166017.58,Equipment failure
+BCH000413,Plant_B,USA,Aspirin 100mg,2023-10-11,197081,26448,9.2,0,248508.74,Process deviation
+BCH000414,Plant_F,France,Aspirin 100mg,2023-10-31,185003,7390,11.5,0,1139805.32,
+BCH000415,Plant_D,India,Omeprazole 20mg,2023-10-31,193169,31446,10.4,3,256267.34,Temperature deviation
+BCH000416,Plant_F,France,Insulin Glargine,2023-09-25,56210,6451,15.8,1,367946.59,Temperature deviation
+BCH000417,Plant_E,Brazil,Atorvastatin 20mg,2023-11-26,141276,6495,15.8,6,169196.0,
+BCH000418,Plant_C,Germany,Ibuprofen 400mg,2023-12-24,147332,47285,26.9,1,917588.56,Temperature deviation
+BCH000419,Plant_B,USA,Losartan 50mg,2023-12-07,129393,4820,11.5,0,168184.61,
+BCH000420,Plant_A,Mexico,Insulin Glargine,2023-09-27,248271,19435,8.0,0,282905.4,Temperature deviation
+BCH000421,Plant_E,Brazil,Amoxicillin 500mg,2023-09-19,21672,766,11.6,0,23555.0,
+BCH000422,Plant_E,Brazil,Omeprazole 20mg,2023-10-23,100875,23565,21.4,0,127800.64,Contamination
+BCH000423,Plant_A,Mexico,Amoxicillin 500mg,2023-11-14,183891,4825,21.6,0,262145.93,
+BCH000424,Plant_F,France,Paracetamol 500mg,2023-08-26,69095,13789,11.8,2,498809.58,Temperature deviation
+BCH000425,Plant_B,USA,Losartan 50mg,2023-12-18,240546,2207,21.3,1,269782.46,
+BCH000426,Plant_D,India,Aspirin 100mg,2023-10-21,155116,12299,27.7,0,189407.4,Equipment failure
+BCH000427,Plant_F,France,Paracetamol 500mg,2023-11-19,29484,9855,18.4,3,176451.11,Temperature deviation
+BCH000428,Plant_F,France,Atorvastatin 20mg,2023-08-01,146643,20473,19.8,0,1064733.05,Contamination
+BCH000429,Plant_F,France,Losartan 50mg,2023-10-03,190044,52363,17.9,0,1405097.63,Contamination
+BCH000430,Plant_E,Brazil,Insulin Glargine,2023-08-08,98364,11411,12.5,3,138165.88,Equipment failure
+BCH000431,Plant_A,Mexico,Omeprazole 20mg,2023-11-13,128014,10123,22.3,7,141322.76,Contamination
+BCH000432,Plant_D,India,Amoxicillin 500mg,2023-12-28,21903,2443,15.1,8,28063.47,Temperature deviation
+BCH000433,Plant_E,Brazil,Omeprazole 20mg,2023-09-14,180396,12724,23.9,0,224976.52,Process deviation
+BCH000434,Plant_D,India,Metformin 850mg,2023-11-22,222813,3835,25.0,0,305168.71,
+BCH000435,Plant_C,Germany,Ibuprofen 400mg,2023-08-10,122949,5636,11.1,3,843444.37,
+BCH000436,Plant_D,India,Ibuprofen 400mg,2023-07-19,170400,13365,24.5,0,238653.28,Equipment failure
+BCH000437,Plant_C,Germany,Amoxicillin 500mg,2023-11-16,59246,13520,21.9,4,413458.47,Equipment failure
+BCH000438,Plant_D,India,Ibuprofen 400mg,2023-09-01,81559,10599,13.3,0,97298.06,Contamination
+BCH000439,Plant_B,USA,Atorvastatin 20mg,2023-11-11,87812,4903,23.3,0,97270.21,
+BCH000440,Plant_B,USA,Metformin 850mg,2023-12-19,207239,12988,13.8,0,275472.28,
+BCH000441,Plant_A,Mexico,Ibuprofen 400mg,2023-12-28,36079,7016,12.8,0,47987.62,Temperature deviation
+BCH000442,Plant_B,USA,Atorvastatin 20mg,2023-09-10,239456,31142,12.1,3,324201.03,Temperature deviation
+BCH000443,Plant_B,USA,Losartan 50mg,2023-09-26,99935,3242,8.7,0,117268.48,
+BCH000444,Plant_F,France,Omeprazole 20mg,2023-10-23,189440,62676,27.8,2,1227552.89,Contamination
+BCH000445,Plant_A,Mexico,Atorvastatin 20mg,2023-11-21,21947,334,13.5,3,30378.02,
+BCH000446,Plant_A,Mexico,Atorvastatin 20mg,2023-12-16,31893,1712,8.9,8,37217.18,
+BCH000447,Plant_A,Mexico,Atorvastatin 20mg,2023-11-02,144467,13286,13.1,0,190055.46,Equipment failure
+BCH000448,Plant_B,USA,Ibuprofen 400mg,2023-08-01,132195,5655,21.6,0,182609.29,
+BCH000449,Plant_A,Mexico,Insulin Lispro,2023-08-24,71024,10130,24.6,1,102036.24,Temperature deviation
+BCH000450,Plant_E,Brazil,Atorvastatin 20mg,2023-12-06,23498,2723,28.4,1,33229.59,Temperature deviation
+BCH000451,Plant_B,USA,Omeprazole 20mg,2023-10-06,232090,57245,25.7,8,304925.23,Temperature deviation
+BCH000452,Plant_D,India,Ibuprofen 400mg,2023-11-27,189187,18466,16.2,2,250466.82,Process deviation
+BCH000453,Plant_F,France,Insulin Lispro,2023-11-07,151637,29225,14.1,2,1078873.9,Contamination
+BCH000454,Plant_A,Mexico,Aspirin 100mg,2023-07-16,67211,1290,22.7,2,83601.2,
+BCH000455,Plant_F,France,Paracetamol 500mg,2023-11-26,231501,80678,29.1,4,1716691.34,Process deviation
+BCH000456,Plant_E,Brazil,Ibuprofen 400mg,2023-09-15,213394,59541,28.3,1,251746.13,Equipment failure
+BCH000457,Plant_B,USA,Paracetamol 500mg,2023-09-08,126511,11666,9.9,0,155912.24,Equipment failure
+BCH000458,Plant_A,Mexico,Insulin Lispro,2023-11-10,154928,29582,24.2,4,178290.41,Process deviation
+BCH000459,Plant_F,France,Atorvastatin 20mg,2023-12-18,23020,5405,15.4,4,137467.81,Contamination
+BCH000460,Plant_B,USA,Insulin Glargine,2023-08-19,20857,1792,18.3,0,24247.76,Temperature deviation
+BCH000461,Plant_B,USA,Ibuprofen 400mg,2023-07-04,27373,1724,13.1,0,32513.05,
+BCH000462,Plant_A,Mexico,Insulin Glargine,2023-09-04,166631,10781,25.8,0,192589.19,
+BCH000463,Plant_A,Mexico,Insulin Glargine,2023-08-07,181666,3665,14.7,0,227887.95,
+BCH000464,Plant_F,France,Metformin 850mg,2023-12-14,42024,6473,21.7,1,257647.2,Equipment failure
+BCH000465,Plant_F,France,Atorvastatin 20mg,2023-11-30,86690,23675,9.3,0,646156.34,Temperature deviation
+BCH000466,Plant_F,France,Ibuprofen 400mg,2023-11-23,98922,10644,27.0,2,728584.88,Equipment failure
+BCH000467,Plant_A,Mexico,Losartan 50mg,2023-12-07,184233,8805,12.3,4,223608.79,
+BCH000468,Plant_B,USA,Omeprazole 20mg,2023-07-29,190876,16586,26.9,4,230980.07,Equipment failure
+BCH000469,Plant_D,India,Metformin 850mg,2023-11-14,68663,15254,28.9,0,79011.26,Contamination
+BCH000470,Plant_E,Brazil,Paracetamol 500mg,2023-10-21,105501,711,20.2,1,122669.98,
+BCH000471,Plant_B,USA,Omeprazole 20mg,2023-11-14,134643,30969,12.8,0,158920.68,Equipment failure
+BCH000472,Plant_F,France,Omeprazole 20mg,2023-08-04,106049,28005,11.1,7,738520.77,Temperature deviation
+BCH000473,Plant_A,Mexico,Omeprazole 20mg,2023-09-26,138115,20257,25.5,1,191184.79,Temperature deviation
+BCH000474,Plant_A,Mexico,Losartan 50mg,2023-08-05,163258,32248,13.8,4,190992.4,Process deviation
+BCH000475,Plant_D,India,Aspirin 100mg,2023-10-23,146587,16748,18.1,3,166337.76,Process deviation
+BCH000476,Plant_D,India,Insulin Lispro,2023-12-02,179312,18151,12.6,0,212471.44,Equipment failure
+BCH000477,Plant_C,Germany,Ibuprofen 400mg,2023-07-01,36478,3311,18.7,3,224385.65,Process deviation
+BCH000478,Plant_D,India,Omeprazole 20mg,2023-09-27,175779,26549,12.5,0,191769.08,Equipment failure
+BCH000479,Plant_C,Germany,Aspirin 100mg,2023-09-06,178573,36147,9.1,1,1219204.93,Process deviation
+BCH000480,Plant_E,Brazil,Metformin 850mg,2023-07-21,172080,24617,17.9,0,187393.36,Equipment failure
+BCH000481,Plant_E,Brazil,Paracetamol 500mg,2023-08-24,135673,26436,25.6,0,165074.77,Contamination
+BCH000482,Plant_B,USA,Losartan 50mg,2023-08-28,125235,5237,20.4,0,165793.8,
+BCH000483,Plant_F,France,Omeprazole 20mg,2023-07-30,74153,19652,25.1,3,509670.96,Process deviation
+BCH000484,Plant_A,Mexico,Metformin 850mg,2023-07-15,242216,17454,13.8,2,342966.67,Contamination
+BCH000485,Plant_D,India,Metformin 850mg,2023-10-27,240361,23094,24.3,6,336156.36,Contamination
+BCH000486,Plant_B,USA,Atorvastatin 20mg,2023-08-13,151530,20038,9.7,0,182198.14,Equipment failure
+BCH000487,Plant_A,Mexico,Insulin Lispro,2023-08-25,198383,42139,16.2,6,227518.3,Process deviation
+BCH000488,Plant_E,Brazil,Amoxicillin 500mg,2023-07-29,187381,4472,19.0,7,232505.57,
+BCH000489,Plant_D,India,Ibuprofen 400mg,2023-07-01,134544,2523,27.9,3,173298.16,
+BCH000490,Plant_C,Germany,Amoxicillin 500mg,2023-12-19,169773,31858,28.0,4,1289654.71,Process deviation
+BCH000491,Plant_E,Brazil,Metformin 850mg,2023-10-11,24432,6142,17.5,0,29395.57,Equipment failure
+BCH000492,Plant_F,France,Paracetamol 500mg,2023-11-01,43766,11694,14.6,0,298090.15,Temperature deviation
+BCH000493,Plant_E,Brazil,Insulin Glargine,2023-08-13,52999,3464,15.6,1,74456.64,
+BCH000494,Plant_A,Mexico,Ibuprofen 400mg,2023-11-11,28632,1674,27.8,1,37694.92,
+BCH000495,Plant_E,Brazil,Losartan 50mg,2023-12-17,102210,8341,10.6,1,127459.28,Equipment failure
+BCH000496,Plant_B,USA,Omeprazole 20mg,2023-10-20,103424,8420,10.3,2,131516.55,Contamination
+BCH000497,Plant_B,USA,Atorvastatin 20mg,2023-09-19,90800,15088,13.7,3,130214.84,Contamination
+BCH000498,Plant_F,France,Ibuprofen 400mg,2023-09-09,95339,40035,18.1,0,686385.69,Temperature deviation
+BCH000499,Plant_A,Mexico,Metformin 850mg,2023-10-04,112360,5949,26.1,0,154661.16,
+BCH000500,Plant_B,USA,Omeprazole 20mg,2023-07-14,166452,25813,9.9,0,192295.57,Contamination
+BCH000501,Plant_D,India,Losartan 50mg,2023-09-01,180252,3007,26.1,0,247130.19,
+BCH000502,Plant_E,Brazil,Ibuprofen 400mg,2023-11-08,187929,21164,23.0,0,266135.61,Process deviation
+BCH000503,Plant_A,Mexico,Atorvastatin 20mg,2023-09-20,92902,5431,29.4,0,122287.6,
+BCH000504,Plant_E,Brazil,Ibuprofen 400mg,2023-07-26,83493,4710,28.6,0,108591.54,
+BCH000505,Plant_D,India,Insulin Lispro,2023-08-06,117015,10763,25.9,0,161493.79,Equipment failure
+BCH000506,Plant_F,France,Metformin 850mg,2023-12-19,21522,3870,22.9,0,143243.68,Process deviation
+BCH000507,Plant_F,France,Insulin Glargine,2023-11-21,36663,4098,8.9,0,273624.74,Contamination
+BCH000508,Plant_B,USA,Insulin Glargine,2023-10-19,100617,6430,12.8,2,143371.43,
+BCH000509,Plant_C,Germany,Metformin 850mg,2023-07-20,133080,19788,22.9,3,916391.99,Temperature deviation
+BCH000510,Plant_A,Mexico,Ibuprofen 400mg,2023-07-14,114429,17741,26.6,4,145840.53,Contamination
+BCH000511,Plant_D,India,Insulin Lispro,2023-10-20,57062,5548,19.3,4,71569.87,Temperature deviation
+BCH000512,Plant_E,Brazil,Paracetamol 500mg,2023-12-08,81489,8148,29.5,0,88195.26,Contamination
+BCH000513,Plant_F,France,Metformin 850mg,2023-11-20,27986,5151,28.8,2,207672.59,Equipment failure
+BCH000514,Plant_B,USA,Omeprazole 20mg,2023-07-02,24823,1300,22.5,0,32202.14,
+BCH000515,Plant_C,Germany,Ibuprofen 400mg,2023-10-10,75350,19054,17.2,0,521090.02,Process deviation
+BCH000516,Plant_A,Mexico,Ibuprofen 400mg,2023-11-16,245871,7503,16.6,5,272987.12,
+BCH000517,Plant_C,Germany,Amoxicillin 500mg,2023-08-26,196502,19435,29.4,0,1469470.85,Equipment failure
+BCH000518,Plant_E,Brazil,Atorvastatin 20mg,2023-11-19,221547,19800,8.9,0,243308.25,Contamination
+BCH000519,Plant_A,Mexico,Losartan 50mg,2023-10-06,108370,6972,14.7,0,147757.5,
+BCH000520,Plant_F,France,Ibuprofen 400mg,2023-10-19,183874,53575,23.6,1,1174351.09,Contamination
+BCH000521,Plant_C,Germany,Atorvastatin 20mg,2023-11-06,68092,26379,26.3,0,454918.32,Contamination
+BCH000522,Plant_F,France,Insulin Glargine,2023-11-18,156184,51531,17.9,6,942719.41,Contamination
+BCH000523,Plant_C,Germany,Ibuprofen 400mg,2023-07-16,33262,2841,15.4,0,223258.16,Temperature deviation
+BCH000524,Plant_C,Germany,Ibuprofen 400mg,2023-07-04,81541,12468,11.4,3,597884.2,Temperature deviation
+BCH000525,Plant_A,Mexico,Atorvastatin 20mg,2023-09-12,75718,7573,8.8,2,83320.46,Equipment failure
+BCH000526,Plant_B,USA,Omeprazole 20mg,2023-12-12,136776,3904,27.7,0,191348.39,
+BCH000527,Plant_A,Mexico,Losartan 50mg,2023-07-24,144045,18373,22.8,2,198405.18,Process deviation
+BCH000528,Plant_D,India,Losartan 50mg,2023-07-14,186867,5026,14.0,0,246974.17,
+BCH000529,Plant_E,Brazil,Metformin 850mg,2023-08-03,145003,7784,18.3,4,171712.3,
+BCH000530,Plant_F,France,Paracetamol 500mg,2023-07-27,76636,35376,12.4,1,575430.63,Equipment failure
+BCH000531,Plant_C,Germany,Atorvastatin 20mg,2023-11-22,127719,32582,8.9,0,950975.47,Equipment failure
+BCH000532,Plant_A,Mexico,Aspirin 100mg,2023-10-23,61349,2501,10.8,4,68528.26,
+BCH000533,Plant_D,India,Paracetamol 500mg,2023-07-16,88550,4055,20.7,1,117391.77,
+BCH000534,Plant_E,Brazil,Aspirin 100mg,2023-12-21,179218,3154,21.8,2,208609.72,
+BCH000535,Plant_A,Mexico,Ibuprofen 400mg,2023-11-18,156811,5438,9.0,1,217308.79,
+BCH000536,Plant_D,India,Omeprazole 20mg,2023-10-09,164784,4936,8.3,0,205571.55,
+BCH000537,Plant_F,France,Amoxicillin 500mg,2023-10-21,86442,15073,11.8,0,598082.1,Process deviation
+BCH000538,Plant_D,India,Metformin 850mg,2023-08-15,132163,24561,20.4,5,170183.29,Contamination
+BCH000539,Plant_E,Brazil,Omeprazole 20mg,2023-12-21,87945,3661,16.9,0,124021.49,
+BCH000540,Plant_D,India,Atorvastatin 20mg,2023-09-17,183902,22422,25.4,2,258215.89,Process deviation
+BCH000541,Plant_A,Mexico,Atorvastatin 20mg,2023-12-28,232543,29737,12.8,0,273913.25,Temperature deviation
+BCH000542,Plant_B,USA,Losartan 50mg,2023-07-28,182433,22253,22.6,2,218275.78,Process deviation
+BCH000543,Plant_C,Germany,Aspirin 100mg,2023-12-16,140583,2779,22.3,4,1074177.16,
+BCH000544,Plant_B,USA,Paracetamol 500mg,2023-07-19,191647,15416,23.7,0,206980.88,Equipment failure
+BCH000545,Plant_C,Germany,Amoxicillin 500mg,2023-12-01,209253,16424,20.4,4,1614885.28,Temperature deviation
+BCH000546,Plant_D,India,Insulin Glargine,2023-09-06,115596,4399,13.3,1,141020.36,
+BCH000547,Plant_B,USA,Aspirin 100mg,2023-07-17,33838,2444,19.7,8,41954.97,Equipment failure
+BCH000548,Plant_B,USA,Insulin Lispro,2023-08-26,152194,23738,23.0,0,201216.09,Process deviation
+BCH000549,Plant_F,France,Paracetamol 500mg,2023-11-23,35469,3992,23.4,1,255453.88,Equipment failure
+BCH000550,Plant_B,USA,Insulin Glargine,2023-09-27,74571,7693,8.6,1,85547.13,Process deviation
+BCH000551,Plant_F,France,Insulin Glargine,2023-12-04,72413,16753,29.2,0,441344.35,Temperature deviation
+BCH000552,Plant_D,India,Paracetamol 500mg,2023-07-09,43127,4001,10.3,0,47462.54,Contamination
+BCH000553,Plant_A,Mexico,Losartan 50mg,2023-10-17,134239,14078,19.0,3,146987.47,Process deviation
+BCH000554,Plant_D,India,Insulin Glargine,2023-11-23,191443,4875,20.8,5,262578.01,
+BCH000555,Plant_E,Brazil,Ibuprofen 400mg,2023-10-14,248979,7604,20.2,0,331795.83,
+BCH000556,Plant_D,India,Insulin Glargine,2023-11-02,113629,14650,23.4,0,154075.22,Equipment failure
+BCH000557,Plant_F,France,Atorvastatin 20mg,2023-11-11,227694,99976,28.6,0,1515063.46,Equipment failure
+BCH000558,Plant_A,Mexico,Insulin Glargine,2023-08-03,130988,7353,15.5,0,144392.43,
+BCH000559,Plant_F,France,Atorvastatin 20mg,2023-11-08,154938,9721,16.8,0,1013561.12,
+BCH000560,Plant_C,Germany,Amoxicillin 500mg,2023-08-12,170445,9250,25.9,1,1017526.02,
+BCH000561,Plant_F,France,Losartan 50mg,2023-08-17,146055,25062,20.8,0,1025820.67,Equipment failure
+BCH000562,Plant_F,France,Atorvastatin 20mg,2023-10-15,224635,12384,12.6,0,1635795.01,
+BCH000563,Plant_C,Germany,Paracetamol 500mg,2023-11-19,123201,28354,25.7,1,803724.84,Equipment failure
+BCH000564,Plant_C,Germany,Amoxicillin 500mg,2023-08-08,137848,12976,11.2,0,886064.24,Equipment failure
+BCH000565,Plant_C,Germany,Insulin Glargine,2023-07-31,166489,36901,20.9,6,1219117.46,Temperature deviation
+BCH000566,Plant_D,India,Paracetamol 500mg,2023-08-16,220249,59627,10.7,0,312470.97,Process deviation
+BCH000567,Plant_C,Germany,Insulin Glargine,2023-09-11,229085,70436,28.6,1,1599530.62,Equipment failure
+BCH000568,Plant_D,India,Insulin Glargine,2023-11-02,95846,4232,9.9,0,137415.14,
+BCH000569,Plant_A,Mexico,Paracetamol 500mg,2023-07-26,231763,9537,9.2,1,282088.64,
+BCH000570,Plant_E,Brazil,Metformin 850mg,2023-11-20,57613,7332,26.1,0,63225.12,Temperature deviation
+BCH000571,Plant_D,India,Ibuprofen 400mg,2023-12-24,244191,18755,21.9,1,336332.97,Temperature deviation
+BCH000572,Plant_E,Brazil,Omeprazole 20mg,2023-07-14,236397,19374,12.9,1,306803.64,Contamination
+BCH000573,Plant_F,France,Insulin Glargine,2023-12-18,109788,21672,19.5,1,805756.08,Contamination
+BCH000574,Plant_B,USA,Amoxicillin 500mg,2023-08-04,26536,4086,12.5,0,30421.01,Temperature deviation
+BCH000575,Plant_D,India,Aspirin 100mg,2023-07-28,181163,9572,26.5,0,220620.71,
+BCH000576,Plant_C,Germany,Metformin 850mg,2023-07-31,89462,23098,27.3,1,622095.12,Contamination
+BCH000577,Plant_C,Germany,Metformin 850mg,2023-11-22,99375,23816,19.9,0,617246.93,Process deviation
+BCH000578,Plant_E,Brazil,Aspirin 100mg,2023-12-16,170216,9440,11.7,0,188563.16,
+BCH000579,Plant_F,France,Ibuprofen 400mg,2023-11-24,241779,9308,11.1,2,1861822.16,
+BCH000580,Plant_D,India,Atorvastatin 20mg,2023-11-21,111124,24253,17.0,2,145689.68,Process deviation
+BCH000581,Plant_C,Germany,Losartan 50mg,2023-12-16,174870,1367,29.0,0,1056551.8,
+BCH000582,Plant_F,France,Atorvastatin 20mg,2023-07-10,203877,65044,11.9,0,1231230.14,Temperature deviation
+BCH000583,Plant_A,Mexico,Losartan 50mg,2023-08-09,167929,16041,14.2,5,185760.47,Temperature deviation
+BCH000584,Plant_C,Germany,Amoxicillin 500mg,2023-11-02,80413,8990,29.5,0,534654.95,Contamination
+BCH000585,Plant_C,Germany,Losartan 50mg,2023-10-01,173792,38321,26.3,0,1212686.08,Temperature deviation
+BCH000586,Plant_F,France,Losartan 50mg,2023-12-23,169167,64368,19.4,1,1122480.9,Process deviation
+BCH000587,Plant_B,USA,Amoxicillin 500mg,2023-07-29,124216,11900,28.9,0,141251.63,Temperature deviation
+BCH000588,Plant_D,India,Amoxicillin 500mg,2023-09-08,51860,2331,15.9,0,63819.97,
+BCH000589,Plant_D,India,Ibuprofen 400mg,2023-08-29,36801,1343,12.6,1,47300.45,
+BCH000590,Plant_F,France,Insulin Lispro,2023-08-19,103510,21980,23.3,1,658247.7,Temperature deviation
+BCH000591,Plant_B,USA,Aspirin 100mg,2023-09-14,248295,15066,13.7,0,280063.24,
+BCH000592,Plant_C,Germany,Ibuprofen 400mg,2023-09-28,213842,54719,14.3,0,1457903.44,Equipment failure
+BCH000593,Plant_F,France,Metformin 850mg,2023-11-14,36685,17887,10.0,0,248347.05,Process deviation
+BCH000594,Plant_E,Brazil,Paracetamol 500mg,2023-12-27,222176,21740,8.5,5,255650.36,Temperature deviation
+BCH000595,Plant_E,Brazil,Insulin Lispro,2023-11-11,73287,9824,24.5,3,90486.17,Process deviation
+BCH000596,Plant_A,Mexico,Paracetamol 500mg,2023-07-31,45632,5310,14.7,0,53337.81,Contamination
+BCH000597,Plant_E,Brazil,Insulin Glargine,2023-12-23,78797,10426,11.8,0,87591.04,Temperature deviation
+BCH000598,Plant_D,India,Metformin 850mg,2023-09-05,61746,15088,22.3,3,66993.82,Temperature deviation
+BCH000599,Plant_D,India,Metformin 850mg,2023-09-22,50339,1869,28.5,2,66672.19,
+BCH000600,Plant_C,Germany,Amoxicillin 500mg,2023-09-07,69427,4220,13.6,0,527638.41,
+BCH000601,Plant_F,France,Paracetamol 500mg,2023-11-23,142240,20482,24.7,2,898413.36,Equipment failure
+BCH000602,Plant_D,India,Insulin Glargine,2023-12-26,88201,2912,28.6,7,115756.49,
+BCH000603,Plant_B,USA,Paracetamol 500mg,2023-10-15,228995,38018,10.9,7,279758.59,Equipment failure
+BCH000604,Plant_F,France,Amoxicillin 500mg,2023-12-25,61774,16296,17.4,1,398984.06,Temperature deviation
+BCH000605,Plant_E,Brazil,Insulin Glargine,2023-12-26,204053,29621,25.2,0,234968.54,Temperature deviation
+BCH000606,Plant_A,Mexico,Insulin Lispro,2023-07-19,153043,8609,29.0,4,175358.63,
+BCH000607,Plant_C,Germany,Ibuprofen 400mg,2023-08-23,87986,6336,15.0,0,557360.75,Process deviation
+BCH000608,Plant_F,France,Atorvastatin 20mg,2023-07-04,243527,47866,11.2,4,1787748.6,Process deviation
+BCH000609,Plant_B,USA,Paracetamol 500mg,2023-12-28,32925,3129,19.2,1,43212.78,Equipment failure
+BCH000610,Plant_E,Brazil,Amoxicillin 500mg,2023-08-22,143604,10003,15.2,0,204328.28,
+BCH000611,Plant_B,USA,Paracetamol 500mg,2023-08-06,119907,16625,10.9,0,166558.3,Temperature deviation
+BCH000612,Plant_F,France,Insulin Glargine,2023-11-18,245019,60345,9.2,4,1514039.54,Contamination
+BCH000613,Plant_B,USA,Metformin 850mg,2023-09-26,247702,11611,20.1,0,342105.99,
+BCH000614,Plant_D,India,Paracetamol 500mg,2023-12-03,102463,14094,26.3,0,141228.36,Equipment failure
+BCH000615,Plant_F,France,Insulin Lispro,2023-12-28,132899,14037,27.3,2,871527.26,Equipment failure
+BCH000616,Plant_E,Brazil,Ibuprofen 400mg,2023-11-10,227179,10557,22.9,0,323982.24,
+BCH000617,Plant_D,India,Insulin Lispro,2023-10-20,168471,3120,16.6,0,228982.74,
+BCH000618,Plant_C,Germany,Amoxicillin 500mg,2023-07-12,39996,9056,17.7,0,274574.96,Equipment failure
+BCH000619,Plant_C,Germany,Insulin Glargine,2023-09-11,182098,24303,9.6,8,1154036.45,Temperature deviation
+BCH000620,Plant_F,France,Losartan 50mg,2023-10-08,66283,13119,26.0,3,413051.77,Contamination
+BCH000621,Plant_C,Germany,Ibuprofen 400mg,2023-08-25,55743,2609,15.1,3,381845.44,
+BCH000622,Plant_E,Brazil,Amoxicillin 500mg,2023-11-10,159266,21057,12.8,0,196013.48,Equipment failure
+BCH000623,Plant_B,USA,Amoxicillin 500mg,2023-07-26,214667,20140,28.4,0,287793.42,Process deviation
+BCH000624,Plant_A,Mexico,Paracetamol 500mg,2023-08-04,44115,1542,23.8,0,57511.8,
+BCH000625,Plant_A,Mexico,Metformin 850mg,2023-10-23,112943,8991,19.2,0,149447.45,Contamination
+BCH000626,Plant_A,Mexico,Aspirin 100mg,2023-10-25,151284,14352,19.8,3,176926.3,Process deviation
+BCH000627,Plant_A,Mexico,Omeprazole 20mg,2023-09-14,157404,16823,26.0,0,183298.78,Process deviation
+BCH000628,Plant_E,Brazil,Aspirin 100mg,2023-07-25,134896,21486,9.5,0,157030.31,Equipment failure
+BCH000629,Plant_F,France,Amoxicillin 500mg,2023-07-11,106876,32511,27.9,0,807770.37,Temperature deviation
+BCH000630,Plant_E,Brazil,Ibuprofen 400mg,2023-07-08,182357,1561,14.6,0,216485.86,
+BCH000631,Plant_E,Brazil,Paracetamol 500mg,2023-07-28,183064,7385,9.6,1,205870.95,
+BCH000632,Plant_A,Mexico,Insulin Glargine,2023-08-14,225097,15398,11.7,0,312766.05,
+BCH000633,Plant_C,Germany,Insulin Glargine,2023-10-15,64466,23887,12.4,3,488779.48,Process deviation
+BCH000634,Plant_E,Brazil,Amoxicillin 500mg,2023-12-13,148241,6275,23.2,1,168632.54,
+BCH000635,Plant_B,USA,Amoxicillin 500mg,2023-11-03,46954,3000,11.4,2,61622.07,
+BCH000636,Plant_C,Germany,Paracetamol 500mg,2023-10-10,74948,6761,29.0,0,478488.78,Temperature deviation
+BCH000637,Plant_A,Mexico,Amoxicillin 500mg,2023-08-28,177098,11519,11.1,0,251691.8,
+BCH000638,Plant_F,France,Insulin Glargine,2023-08-01,23058,2875,21.8,3,150293.26,Contamination
+BCH000639,Plant_B,USA,Amoxicillin 500mg,2023-10-18,147353,9256,25.8,4,192318.66,
+BCH000640,Plant_B,USA,Losartan 50mg,2023-10-04,224513,16910,21.1,0,254477.05,Process deviation
+BCH000641,Plant_C,Germany,Aspirin 100mg,2023-09-22,58736,5403,22.1,0,377954.43,Process deviation
+BCH000642,Plant_E,Brazil,Insulin Glargine,2023-09-13,189030,31567,25.6,0,236071.0,Process deviation
+BCH000643,Plant_D,India,Paracetamol 500mg,2023-07-20,23191,1199,9.2,2,27685.33,
+BCH000644,Plant_F,France,Insulin Lispro,2023-12-14,72170,3192,10.0,0,464129.28,
+BCH000645,Plant_C,Germany,Omeprazole 20mg,2023-11-13,115568,9010,12.5,0,893730.45,Contamination
+BCH000646,Plant_F,France,Amoxicillin 500mg,2023-11-06,209865,28939,11.7,1,1307698.85,Temperature deviation
+BCH000647,Plant_E,Brazil,Insulin Glargine,2023-08-07,119561,6875,24.2,0,170104.51,
+BCH000648,Plant_C,Germany,Insulin Glargine,2023-09-07,137681,38274,24.4,0,866372.58,Process deviation
+BCH000649,Plant_B,USA,Insulin Glargine,2023-09-29,123879,7419,15.7,0,155599.14,
+BCH000650,Plant_E,Brazil,Omeprazole 20mg,2023-09-14,248306,18067,26.7,0,306938.49,Temperature deviation
+BCH000651,Plant_D,India,Aspirin 100mg,2023-10-24,181659,32221,26.6,2,248842.86,Equipment failure
+BCH000652,Plant_C,Germany,Losartan 50mg,2023-07-09,105002,13150,15.9,0,767614.83,Equipment failure
+BCH000653,Plant_F,France,Paracetamol 500mg,2023-10-11,150490,9143,24.5,0,966029.44,
+BCH000654,Plant_C,Germany,Insulin Lispro,2023-07-04,55046,9508,23.6,5,378377.74,Temperature deviation
+BCH000655,Plant_B,USA,Aspirin 100mg,2023-09-20,72431,10032,29.5,0,79249.32,Contamination
+BCH000656,Plant_F,France,Ibuprofen 400mg,2023-07-19,180548,22097,21.2,0,1312552.73,Equipment failure
+BCH000657,Plant_A,Mexico,Omeprazole 20mg,2023-11-16,232504,36593,10.6,0,326217.77,Temperature deviation
+BCH000658,Plant_C,Germany,Insulin Glargine,2023-11-27,48676,12565,15.5,0,365866.7,Temperature deviation
+BCH000659,Plant_A,Mexico,Paracetamol 500mg,2023-10-23,74976,11954,11.6,0,92589.72,Process deviation
+BCH000660,Plant_D,India,Ibuprofen 400mg,2023-11-27,236984,10839,15.1,0,259483.03,
+BCH000661,Plant_E,Brazil,Losartan 50mg,2023-12-12,81725,8549,28.5,6,109423.91,Equipment failure
+BCH000662,Plant_D,India,Amoxicillin 500mg,2023-11-18,167725,25617,21.2,1,215223.04,Temperature deviation
+BCH000663,Plant_D,India,Insulin Lispro,2023-09-01,58412,4385,24.8,2,82485.77,Temperature deviation
+BCH000664,Plant_A,Mexico,Paracetamol 500mg,2023-11-12,182453,3098,19.6,1,229219.88,
+BCH000665,Plant_C,Germany,Ibuprofen 400mg,2023-10-30,165837,21290,17.6,0,997623.03,Contamination
+BCH000666,Plant_F,France,Paracetamol 500mg,2023-07-08,163045,51425,28.3,0,1250407.1,Process deviation
+BCH000667,Plant_C,Germany,Metformin 850mg,2023-09-27,167374,15047,28.3,0,1088906.89,Process deviation
+BCH000668,Plant_A,Mexico,Insulin Lispro,2023-08-28,83928,2299,19.4,0,120024.27,
+BCH000669,Plant_A,Mexico,Aspirin 100mg,2023-10-08,150741,15331,26.4,0,168561.26,Temperature deviation
+BCH000670,Plant_F,France,Paracetamol 500mg,2023-10-21,177313,7446,10.6,0,1236718.36,
+BCH000671,Plant_F,France,Metformin 850mg,2023-07-03,121223,4411,17.9,0,718591.63,
+BCH000672,Plant_B,USA,Insulin Glargine,2023-11-10,73317,7394,10.2,0,88863.68,Equipment failure
+BCH000673,Plant_B,USA,Ibuprofen 400mg,2023-08-15,91827,11160,18.0,0,120024.99,Process deviation
+BCH000674,Plant_E,Brazil,Metformin 850mg,2023-12-17,71947,12279,18.7,5,79159.02,Process deviation
+BCH000675,Plant_D,India,Losartan 50mg,2023-10-14,68388,8095,20.3,0,94836.2,Equipment failure
+BCH000676,Plant_B,USA,Metformin 850mg,2023-09-10,137791,34595,28.5,0,182700.0,Process deviation
+BCH000677,Plant_B,USA,Ibuprofen 400mg,2023-07-27,84102,8185,22.3,0,117468.76,Equipment failure
+BCH000678,Plant_D,India,Omeprazole 20mg,2023-12-07,91344,3745,24.7,0,128537.23,
+BCH000679,Plant_E,Brazil,Atorvastatin 20mg,2023-11-09,246289,28911,21.6,0,286011.53,Contamination
+BCH000680,Plant_A,Mexico,Insulin Glargine,2023-07-03,41282,2219,10.9,8,47692.06,
+BCH000681,Plant_B,USA,Ibuprofen 400mg,2023-07-12,119201,1226,17.8,0,130214.61,
+BCH000682,Plant_A,Mexico,Insulin Lispro,2023-08-03,32012,4987,28.6,3,36113.71,Process deviation
+BCH000683,Plant_D,India,Losartan 50mg,2023-09-28,182864,14602,15.3,6,215633.97,Temperature deviation
+BCH000684,Plant_E,Brazil,Aspirin 100mg,2023-10-31,31878,2924,14.2,0,38872.04,Contamination
+BCH000685,Plant_C,Germany,Paracetamol 500mg,2023-09-04,219734,17772,28.8,4,1362852.28,Process deviation
+BCH000686,Plant_F,France,Aspirin 100mg,2023-09-26,198273,17703,24.3,1,1331783.55,Temperature deviation
+BCH000687,Plant_A,Mexico,Omeprazole 20mg,2023-08-19,55419,2372,16.8,0,66931.02,
+BCH000688,Plant_B,USA,Amoxicillin 500mg,2023-12-03,152461,7685,17.2,1,201142.73,
+BCH000689,Plant_E,Brazil,Insulin Lispro,2023-09-02,204495,17935,8.8,2,269541.46,Process deviation
+BCH000690,Plant_D,India,Paracetamol 500mg,2023-08-06,29268,84,20.8,5,39166.86,
+BCH000691,Plant_A,Mexico,Metformin 850mg,2023-07-30,101258,10214,23.3,0,144597.86,Equipment failure
+BCH000692,Plant_A,Mexico,Omeprazole 20mg,2023-09-12,30691,4734,27.3,1,37755.43,Process deviation
+BCH000693,Plant_A,Mexico,Losartan 50mg,2023-09-10,77724,11494,14.4,7,98285.22,Temperature deviation
+BCH000694,Plant_F,France,Atorvastatin 20mg,2023-12-11,141544,52804,25.2,0,910244.81,Equipment failure
+BCH000695,Plant_E,Brazil,Amoxicillin 500mg,2023-07-04,189315,27531,29.7,6,227838.64,Temperature deviation
+BCH000696,Plant_F,France,Insulin Lispro,2023-12-28,47903,3560,23.9,0,289264.87,Equipment failure
+BCH000697,Plant_E,Brazil,Amoxicillin 500mg,2023-10-04,135853,8364,25.2,0,148046.95,
+BCH000698,Plant_D,India,Losartan 50mg,2023-12-03,134753,3701,16.6,1,168672.22,
+BCH000699,Plant_D,India,Metformin 850mg,2023-11-16,38383,3826,19.2,5,54747.25,Temperature deviation
+BCH000700,Plant_E,Brazil,Ibuprofen 400mg,2023-07-26,199517,23751,30.0,0,244565.68,Contamination
+BCH000701,Plant_A,Mexico,Ibuprofen 400mg,2023-11-14,219377,7991,13.7,0,277241.12,
+BCH000702,Plant_C,Germany,Aspirin 100mg,2023-12-03,243588,51413,20.6,6,1584055.85,Contamination
+BCH000703,Plant_E,Brazil,Amoxicillin 500mg,2023-12-26,149633,8231,24.1,0,198929.17,
+BCH000704,Plant_C,Germany,Metformin 850mg,2023-10-22,167435,27617,29.5,0,1034725.81,Contamination
+BCH000705,Plant_C,Germany,Paracetamol 500mg,2023-08-17,92917,1373,19.3,1,669484.8,
+BCH000706,Plant_E,Brazil,Ibuprofen 400mg,2023-11-24,130291,13929,15.6,0,158749.9,Contamination
+BCH000707,Plant_D,India,Atorvastatin 20mg,2023-12-19,178689,31322,25.8,1,214988.78,Process deviation
+BCH000708,Plant_E,Brazil,Atorvastatin 20mg,2023-12-24,141217,26056,19.2,0,185472.59,Temperature deviation
+BCH000709,Plant_B,USA,Amoxicillin 500mg,2023-08-19,188839,3366,27.1,0,242641.94,
+BCH000710,Plant_F,France,Metformin 850mg,2023-07-18,42464,12597,27.1,0,281079.19,Temperature deviation
+BCH000711,Plant_E,Brazil,Atorvastatin 20mg,2023-09-15,208252,42725,15.1,7,258157.11,Equipment failure
+BCH000712,Plant_C,Germany,Insulin Lispro,2023-11-26,73572,6977,16.5,0,437468.25,Contamination
+BCH000713,Plant_E,Brazil,Insulin Lispro,2023-08-16,50712,7188,29.4,0,60418.74,Process deviation
+BCH000714,Plant_D,India,Insulin Lispro,2023-12-04,108524,673,23.8,0,143822.69,
+BCH000715,Plant_E,Brazil,Omeprazole 20mg,2023-07-18,120114,2136,12.6,1,161703.38,
+BCH000716,Plant_E,Brazil,Insulin Glargine,2023-07-27,175351,11818,12.4,6,193966.19,
+BCH000717,Plant_B,USA,Insulin Lispro,2023-10-20,234694,13298,12.7,0,273641.62,
+BCH000718,Plant_B,USA,Omeprazole 20mg,2023-09-11,185545,53724,29.0,0,265612.19,Temperature deviation
+BCH000719,Plant_F,France,Amoxicillin 500mg,2023-07-07,195344,69948,26.6,3,1469715.46,Contamination
+BCH000720,Plant_C,Germany,Amoxicillin 500mg,2023-07-01,152618,20300,17.0,2,895740.03,Equipment failure
+BCH000721,Plant_F,France,Metformin 850mg,2023-10-22,78230,19313,17.8,3,502482.06,Equipment failure
+BCH000722,Plant_C,Germany,Aspirin 100mg,2023-10-31,113916,25867,24.5,5,701142.29,Process deviation
+BCH000723,Plant_B,USA,Aspirin 100mg,2023-12-24,160782,4788,20.5,1,225101.27,
+BCH000724,Plant_B,USA,Paracetamol 500mg,2023-10-16,56710,884,12.0,0,67580.44,
+BCH000725,Plant_D,India,Omeprazole 20mg,2023-12-09,195661,19963,27.1,0,276662.4,Process deviation
+BCH000726,Plant_A,Mexico,Aspirin 100mg,2023-12-08,49137,1821,22.2,3,55083.94,
+BCH000727,Plant_C,Germany,Insulin Glargine,2023-12-22,185033,15473,22.1,1,1094846.71,Contamination
+BCH000728,Plant_A,Mexico,Insulin Glargine,2023-09-08,169365,34344,25.5,0,225084.67,Contamination
+BCH000729,Plant_D,India,Aspirin 100mg,2023-07-11,231616,11610,27.1,0,304306.4,
+BCH000730,Plant_B,USA,Ibuprofen 400mg,2023-07-01,228087,38577,11.0,0,267475.92,Equipment failure
+BCH000731,Plant_F,France,Atorvastatin 20mg,2023-12-11,151261,25885,10.5,4,1094401.38,Contamination
+BCH000732,Plant_C,Germany,Omeprazole 20mg,2023-09-23,160118,20242,14.1,8,1018979.0,Equipment failure
+BCH000733,Plant_B,USA,Insulin Glargine,2023-11-04,185535,3573,26.1,7,204737.8,
+BCH000734,Plant_E,Brazil,Paracetamol 500mg,2023-10-01,20183,2646,17.7,8,28422.8,Equipment failure
+BCH000735,Plant_A,Mexico,Insulin Lispro,2023-08-12,46952,3750,17.4,0,51639.53,Contamination
+BCH000736,Plant_A,Mexico,Losartan 50mg,2023-09-16,89372,4709,29.4,1,98647.02,
+BCH000737,Plant_E,Brazil,Amoxicillin 500mg,2023-10-29,88868,16342,13.9,2,118862.37,Equipment failure
+BCH000738,Plant_F,France,Metformin 850mg,2023-10-06,128352,16389,27.6,1,968532.25,Equipment failure
+BCH000739,Plant_C,Germany,Paracetamol 500mg,2023-11-02,68333,8444,17.3,3,432348.18,Temperature deviation
+BCH000740,Plant_E,Brazil,Atorvastatin 20mg,2023-09-03,227882,18090,28.0,0,254470.44,Process deviation
+BCH000741,Plant_C,Germany,Amoxicillin 500mg,2023-08-03,171036,43230,24.6,1,1031028.75,Process deviation
+BCH000742,Plant_B,USA,Aspirin 100mg,2023-07-19,241188,41981,26.5,0,311520.22,Process deviation
+BCH000743,Plant_B,USA,Atorvastatin 20mg,2023-12-22,111852,5821,21.1,0,134877.99,
+BCH000744,Plant_F,France,Insulin Glargine,2023-08-12,236453,19200,15.8,2,1478178.81,Contamination
+BCH000745,Plant_D,India,Aspirin 100mg,2023-11-22,239148,47986,12.1,7,312376.3,Contamination
+BCH000746,Plant_F,France,Losartan 50mg,2023-09-03,184186,16193,26.4,3,1330079.05,Process deviation
+BCH000747,Plant_C,Germany,Paracetamol 500mg,2023-07-24,72997,21263,29.1,1,471751.58,Process deviation
+BCH000748,Plant_C,Germany,Metformin 850mg,2023-09-25,59925,19479,18.9,0,378066.67,Contamination
+BCH000749,Plant_B,USA,Atorvastatin 20mg,2023-07-27,103855,10847,11.2,1,146253.04,Equipment failure
+BCH000750,Plant_A,Mexico,Insulin Lispro,2023-07-29,198199,13246,14.8,1,267913.1,
+BCH000751,Plant_A,Mexico,Aspirin 100mg,2023-07-15,41463,2167,20.4,0,50072.27,
+BCH000752,Plant_A,Mexico,Paracetamol 500mg,2023-07-25,184533,14601,28.0,0,242912.33,Temperature deviation
+BCH000753,Plant_C,Germany,Aspirin 100mg,2023-07-22,39280,8899,12.1,2,252888.35,Temperature deviation
+BCH000754,Plant_C,Germany,Insulin Glargine,2023-09-14,38889,9680,22.2,0,237383.31,Equipment failure
+BCH000755,Plant_E,Brazil,Ibuprofen 400mg,2023-07-07,53005,1460,21.8,2,70271.99,
+BCH000756,Plant_C,Germany,Atorvastatin 20mg,2023-07-28,91203,5803,29.8,1,681574.84,
+BCH000757,Plant_F,France,Insulin Lispro,2023-09-02,123790,10714,13.4,8,889929.19,Contamination
+BCH000758,Plant_D,India,Paracetamol 500mg,2023-09-13,93217,14314,17.5,0,121837.29,Equipment failure
+BCH000759,Plant_C,Germany,Aspirin 100mg,2023-11-01,52982,5607,27.2,6,328002.21,Equipment failure
+BCH000760,Plant_A,Mexico,Insulin Glargine,2023-07-14,92535,3937,23.9,5,121030.63,
+BCH000761,Plant_F,France,Paracetamol 500mg,2023-07-04,48805,5549,22.4,3,307877.12,Contamination
+BCH000762,Plant_B,USA,Insulin Glargine,2023-08-24,118000,3028,26.0,5,138893.88,
+BCH000763,Plant_C,Germany,Aspirin 100mg,2023-07-08,87934,21925,19.1,7,671449.78,Contamination
+BCH000764,Plant_F,France,Insulin Lispro,2023-10-10,60004,6908,9.9,3,395289.28,Contamination
+BCH000765,Plant_B,USA,Losartan 50mg,2023-07-22,171116,10619,26.1,0,245555.51,
+BCH000766,Plant_E,Brazil,Amoxicillin 500mg,2023-12-27,84833,6830,17.8,0,117363.09,Process deviation
+BCH000767,Plant_A,Mexico,Ibuprofen 400mg,2023-11-30,74805,3017,16.0,1,82693.25,
+BCH000768,Plant_B,USA,Aspirin 100mg,2023-10-29,214983,24093,21.1,0,293817.41,Contamination
+BCH000769,Plant_D,India,Metformin 850mg,2023-11-13,176876,10985,10.1,0,200215.2,
+BCH000770,Plant_B,USA,Omeprazole 20mg,2023-07-19,187463,3983,19.1,2,224056.87,
+BCH000771,Plant_B,USA,Insulin Glargine,2023-07-16,108437,12359,8.4,0,117448.42,Process deviation
+BCH000772,Plant_D,India,Losartan 50mg,2023-12-17,245282,29121,17.7,0,328311.07,Contamination
+BCH000773,Plant_E,Brazil,Insulin Lispro,2023-07-10,240056,32439,26.3,0,313534.97,Contamination
+BCH000774,Plant_B,USA,Losartan 50mg,2023-11-25,25230,515,12.5,0,31679.9,
+BCH000775,Plant_B,USA,Amoxicillin 500mg,2023-09-24,146444,15163,23.8,3,181943.03,Equipment failure
+BCH000776,Plant_B,USA,Amoxicillin 500mg,2023-08-04,76651,5127,15.4,0,108027.56,
+BCH000777,Plant_C,Germany,Insulin Lispro,2023-10-15,231323,21813,10.2,0,1522764.93,Contamination
+BCH000778,Plant_B,USA,Omeprazole 20mg,2023-10-30,205457,17372,28.4,0,251947.73,Temperature deviation
+BCH000779,Plant_E,Brazil,Aspirin 100mg,2023-12-13,100071,5632,14.3,8,132084.38,
+BCH000780,Plant_F,France,Amoxicillin 500mg,2023-12-02,36196,11472,21.5,3,259278.05,Contamination
+BCH000781,Plant_D,India,Losartan 50mg,2023-11-06,129251,4393,17.0,0,152679.35,
+BCH000782,Plant_E,Brazil,Ibuprofen 400mg,2023-12-23,84854,13316,26.2,0,112422.24,Equipment failure
+BCH000783,Plant_A,Mexico,Paracetamol 500mg,2023-11-10,199764,16896,14.8,0,260515.61,Process deviation
+BCH000784,Plant_C,Germany,Atorvastatin 20mg,2023-07-11,212502,21585,25.0,6,1411566.27,Contamination
+BCH000785,Plant_B,USA,Amoxicillin 500mg,2023-07-03,163851,16952,14.4,3,227105.32,Process deviation
+BCH000786,Plant_E,Brazil,Insulin Lispro,2023-10-29,195804,13963,9.0,0,279164.04,Contamination
+BCH000787,Plant_E,Brazil,Insulin Lispro,2023-10-20,84547,13324,8.3,2,116349.92,Process deviation
+BCH000788,Plant_B,USA,Omeprazole 20mg,2023-11-28,143608,9305,24.8,2,181112.57,
+BCH000789,Plant_F,France,Insulin Lispro,2023-08-08,165475,49296,29.2,1,1018754.71,Contamination
+BCH000790,Plant_A,Mexico,Insulin Lispro,2023-09-04,192947,7845,29.5,3,265189.43,
+BCH000791,Plant_E,Brazil,Aspirin 100mg,2023-09-11,209120,12101,26.8,0,290087.61,
+BCH000792,Plant_A,Mexico,Metformin 850mg,2023-07-26,218341,52457,10.2,0,292402.02,Temperature deviation
+BCH000793,Plant_E,Brazil,Amoxicillin 500mg,2023-07-25,39062,1754,23.7,1,45501.2,
+BCH000794,Plant_F,France,Ibuprofen 400mg,2023-10-27,141262,22963,24.7,0,1019301.16,Equipment failure
+BCH000795,Plant_C,Germany,Aspirin 100mg,2023-09-09,66553,9490,19.8,1,512660.72,Contamination
+BCH000796,Plant_B,USA,Insulin Glargine,2023-11-03,199401,15955,26.3,0,276139.0,Temperature deviation
+BCH000797,Plant_F,France,Aspirin 100mg,2023-10-05,129722,43676,18.7,0,959710.91,Temperature deviation
+BCH000798,Plant_D,India,Aspirin 100mg,2023-11-18,41364,358,18.1,0,47187.61,
+BCH000799,Plant_F,France,Aspirin 100mg,2023-12-07,148969,20518,17.8,1,975045.29,Temperature deviation

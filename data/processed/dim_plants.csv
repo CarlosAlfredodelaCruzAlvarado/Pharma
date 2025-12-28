@@ -1,0 +1,9 @@
+plant,country,capacity_units_per_month,plant_type
+Plant_A,Mexico,380000,Solid
+Plant_B,USA,420000,Solid
+Plant_C,Germany,130000,Biological
+Plant_D,India,620000,Solid
+Plant_E,Brazil,310000,Solid
+Plant_F,France,150000,Biological
+Plant_G,Spain,290000,Solid
+Plant_H,Poland,260000,Solid

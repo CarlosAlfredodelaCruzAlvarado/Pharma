@@ -1,0 +1,4 @@
+- Data is synthetic and representative of operational systems under NDA
+- Reject rate above 5% is considered a quality alert
+- Delays above 3 days are operationally critical
+- Tableau dashboards prioritize clarity over full automation
