@@ -46,3 +46,5 @@ to replicate realistic operational patterns under NDA-like constraints.
 - Logistics Performance
 
 Published on Tableau Public.
+https://public.tableau.com/views/Project-Pharma/Dashboard1ExecutiveOverview?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
